@@ -1,0 +1,10 @@
+2019-10-30 11:00:45+0100 [quarantine] [58_201910220830_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [api] [20_201910230715_201910230848.ism] Received delete request for non-existing content 20_201910230715_201910230848.ism. Creating dummy content.
+2019-10-30 11:00:45+0100 [quarantine] [61_201910220826_201910220914.ism] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [58_201910220830_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [161_201910220700_201910220800.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [58_201910220800_201910220830.ism] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [61_201910220826_201910220914.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [api] [20_201910230715_201910230848.m3u8] Received delete request for non-existing content 20_201910230715_201910230848.m3u8. Creating dummy content.
+2019-10-30 11:00:45+0100 [quarantine] [161_201910220700_201910220800.ism] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [161_201910220800_201910220900.m3u8] Content deleted from VDN after quarantine
