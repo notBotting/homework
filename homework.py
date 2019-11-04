@@ -28,6 +28,25 @@ logging.basicConfig(
 #
 last_line = None
 stack_lock = False
+#
+# 
+# Connetion settings for postgres
+table_name = 'log_lines'
+
+try:
+    connection = psycopg2.connect(user = "postgres",
+                                  password = "123",
+                                  host = "127.0.0.1",
+                                  port = "5432",
+                                  database = "postgres")
+
+    cursor = connection.cursor()
+    cursor.execute("SELECT version();")
+    record = cursor.fetchone()
+    logging.debug('Connection established. Server: "%s"' % record)
+
+except (Exception, psycopg2.Error) as error:
+    logging.debug('Error while establishing connection to Postgres server: "%s"' % error)
 
 
 # Parse single line from input into list:
@@ -71,13 +90,23 @@ def postg_insert(src_line):
         workload = merge_stack(output)
         if workload:
             for record in workload:
-                # print(record)
-                pass
+                single_pginsert(cursor, record)
 
 
 #
 # Need bulk insert for whole file
 # Need single record insert for tail output
+def single_pginsert(cursor, record):
+    pgquery = "INSERT INTO %s VALUES " % table_name
+    record = (
+              record[0],
+              record[1],
+              record[2]
+             )
+    args_str = cursor.mogrify("(%s,%s,%s)", record)
+    cursor.execute(pgquery + args_str)
+    connection.commit()
+
 # Need stat calculations
 
 
