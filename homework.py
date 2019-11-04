@@ -1,6 +1,7 @@
 import sys
 import argparse
 import logging
+import psycopg2
 from dateutil.parser import parse
 from datetime import datetime
 
