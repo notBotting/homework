@@ -28,23 +28,21 @@ logging.basicConfig(
 #
 last_line = None
 stack_lock = False
-#
-# 
-# Connetion settings for postgres
-table_name = 'log_lines'
+workload = []
 
+# Connection settings for postgres
+table_name = 'log_lines'
 try:
-    connection = psycopg2.connect(user = "postgres",
-                                  password = "123",
-                                  host = "127.0.0.1",
-                                  port = "5432",
-                                  database = "postgres")
+    connection = psycopg2.connect(user="postgres",
+                                  password="123",
+                                  host="127.0.0.1",
+                                  port="5432",
+                                  database="postgres")
 
     cursor = connection.cursor()
     cursor.execute("SELECT version();")
     record = cursor.fetchone()
     logging.debug('Connection established. Server: "%s"' % record)
-
 except (Exception, psycopg2.Error) as error:
     logging.debug('Error while establishing connection to Postgres server: "%s"' % error)
 
@@ -71,41 +69,31 @@ def parse_line(src_line):
 def merge_stack(output):
     global last_line
     global stack_lock
+    global workload
     if not output[0]:
         last_line[2] += output[2]
         stack_lock = True
     else:
-        workload = []
         if stack_lock:
             stack_lock = False
             workload.append(last_line)
         last_line = output
         workload.append(last_line)
-        return workload
 
 
-def postg_insert(src_line):
+def build_workload(src_line):
     output = parse_line(src_line)
     if output:
-        workload = merge_stack(output)
-        if workload:
-            for record in workload:
-                single_pginsert(cursor, record)
+        merge_stack(output)
 
 
-#
-# Need bulk insert for whole file
-# Need single record insert for tail output
-def single_pginsert(cursor, record):
+def pginsert(cur):
+    global workload
     pgquery = "INSERT INTO %s VALUES " % table_name
-    record = (
-              record[0],
-              record[1],
-              record[2]
-             )
-    args_str = cursor.mogrify("(%s,%s,%s)", record)
+    args_str = ','.join(cur.mogrify("(%s,%s,%s)", tuple(x)) for x in workload)
     cursor.execute(pgquery + args_str)
     connection.commit()
+    workload = []
 
 # Need stat calculations
 
@@ -119,8 +107,10 @@ def listen_stdout():
         while True:
             line += sys.stdin.read(1)
             if line.endswith('\n'):
-                postg_insert(line)
+                build_workload(line)
                 line = ''
+                if not stack_lock:
+                    pginsert(cursor)
     except KeyboardInterrupt:
         logging.debug('Termination signal received.')
         sys.stdout.flush()
@@ -132,7 +122,8 @@ def read_file_lines(filename):
         log_lines = src_file.readlines()
         logging.debug('File len (line count): %i' % len(log_lines))
         for log_line in log_lines:
-            postg_insert(log_line)
+            build_workload(log_line)
+    pginsert(cursor)
 
 
 def main():
