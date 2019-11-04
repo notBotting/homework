@@ -10,10 +10,12 @@ from datetime import datetime
 # ########## CLI Arguments ##########
 #
 parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter)
-parser.add_argument("-f", "--file", help="Input file.", default=False)
-parser.add_argument("-t", "--tail", help="Listen to stdout.", action='store_true')
+group = parser.add_mutually_exclusive_group(required=False)
+group.add_argument("-f", "--file", help="Input file.", default=False)
+group.add_argument("-t", "--tail", help="Listen to stdout.", action='store_true')
 parser.add_argument("-v", "--verbose", help="Debug level output", action='store_true')
 args = parser.parse_args()
+
 #
 # ########## Logging config ##########
 #
@@ -21,10 +23,14 @@ logging.basicConfig(
     format='%(asctime)s %(levelname)s %(message)s',
     level=logging.DEBUG if args.verbose else logging.INFO)
 
-
+#
+# ########## Global Vars ##########
+#
 last_line = None
 stack_lock = False
-# Parse single line into list:
+
+
+# Parse single line from input into list:
 # list[0] - datetime obj or None.
 # list[1] - Prefix.
 # list[2] - context.
@@ -41,6 +47,8 @@ def parse_line(src_line):
         logging.debug('Got this: %s.' % e)
 
 
+# merge stacks into single line with timestamp
+# [HTTP11ClientProtocol] Unhandled errors
 def merge_stack(output):
     global last_line
     global stack_lock
@@ -48,19 +56,33 @@ def merge_stack(output):
         last_line[2] += output[2]
         stack_lock = True
     else:
+        workload = []
         if stack_lock:
             stack_lock = False
-            print(last_line)
+            workload.append(last_line)
         last_line = output
-        print(last_line)
+        workload.append(last_line)
+        return workload
 
 
 def postg_insert(src_line):
     output = parse_line(src_line)
     if output:
-        merge_stack(output)
+        workload = merge_stack(output)
+        if workload:
+            for record in workload:
+                # print(record)
+                pass
 
 
+#
+# Need bulk insert for whole file
+# Need single record insert for tail output
+# Need stat calculations
+
+
+# Infinite loop for stdout listen
+# Aborts on ctrl+c
 def listen_stdout():
     logging.debug('Initializing listener for stdout.')
     try:
@@ -75,9 +97,20 @@ def listen_stdout():
         sys.stdout.flush()
 
 
+def read_file_lines(filename):
+    logging.debug('Reading log lines from file: "%s"' % filename)
+    with open(filename, 'r') as src_file:
+        log_lines = src_file.readlines()
+        logging.debug('File len (line count): %i' % len(log_lines))
+        for log_line in log_lines:
+            postg_insert(log_line)
+
+
 def main():
     if args.tail:
         listen_stdout()
+    elif args.file:
+        read_file_lines(args.file)
     else:
         print('something else')
 
