@@ -1,0 +1,1000 @@
+2019-10-30 11:00:45+0100 [quarantine] [58_201910220830_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [api] [20_201910230715_201910230848.ism] Received delete request for non-existing content 20_201910230715_201910230848.ism. Creating dummy content.
+2019-10-30 11:00:45+0100 [quarantine] [61_201910220826_201910220914.ism] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [58_201910220830_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [161_201910220700_201910220800.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [58_201910220800_201910220830.ism] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [61_201910220826_201910220914.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [api] [20_201910230715_201910230848.m3u8] Received delete request for non-existing content 20_201910230715_201910230848.m3u8. Creating dummy content.
+2019-10-30 11:00:45+0100 [quarantine] [161_201910220700_201910220800.ism] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [161_201910220800_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [58_201910220800_201910220830.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [32_201910220900_201910220931.ism] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [quarantine] [20_201910220700_201910220827.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:45+0100 [api] [20_201910230715_201910230848.m3u8] Got delete for content 20_201910230715_201910230848.m3u8 but state is already quarantined
+2019-10-30 11:00:45+0100 [api] [26_201910230700_201910230811.ism] Received delete request for non-existing content 26_201910230700_201910230811.ism. Creating dummy content.
+2019-10-30 11:00:45+0100 [quarantine] [32_201910220800_201910220831.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:00:46+0100 [api] [26_201910230700_201910230811.m3u8] Received delete request for non-existing content 26_201910230700_201910230811.m3u8. Creating dummy content.
+2019-10-30 11:00:46+0100 [api] [26_201910230700_201910230811.m3u8] Got delete for content 26_201910230700_201910230811.m3u8 but state is already quarantined
+2019-10-30 11:00:46+0100 [api] [59_201910230725_201910230810.ism] Received delete request for non-existing content 59_201910230725_201910230810.ism. Creating dummy content.
+2019-10-30 11:00:46+0100 [api] [59_201910230905_201910230955.m3u8] Received delete request for non-existing content 59_201910230905_201910230955.m3u8. Creating dummy content.
+2019-10-30 11:00:46+0100 [api] [59_201910230810_201910230905.ism] Received delete request for non-existing content 59_201910230810_201910230905.ism. Creating dummy content.
+2019-10-30 11:00:46+0100 [api] [59_201910230905_201910230955.ism] Received delete request for non-existing content 59_201910230905_201910230955.ism. Creating dummy content.
+2019-10-30 11:00:46+0100 [api] [59_201910230810_201910230905.m3u8] Received delete request for non-existing content 59_201910230810_201910230905.m3u8. Creating dummy content.
+2019-10-30 11:00:46+0100 [api] [59_201910230725_201910230810.m3u8] Received delete request for non-existing content 59_201910230725_201910230810.m3u8. Creating dummy content.
+2019-10-30 11:00:46+0100 [api] [59_201910230905_201910230955.m3u8] Got delete for content 59_201910230905_201910230955.m3u8 but state is already quarantined
+2019-10-30 11:00:46+0100 [api] [59_201910230810_201910230905.m3u8] Got delete for content 59_201910230810_201910230905.m3u8 but state is already quarantined
+2019-10-30 11:00:46+0100 [api] [59_201910230725_201910230810.m3u8] Got delete for content 59_201910230725_201910230810.m3u8 but state is already quarantined
+2019-10-30 11:00:46+0100 [api] [6_201910230750_201910230855.ism] Received delete request for non-existing content 6_201910230750_201910230855.ism. Creating dummy content.
+2019-10-30 11:00:47+0100 [api] [6_201910230855_201910230955.ism] Received delete request for non-existing content 6_201910230855_201910230955.ism. Creating dummy content.
+2019-10-30 11:00:47+0100 [api] [6_201910230750_201910230855.m3u8] Received delete request for non-existing content 6_201910230750_201910230855.m3u8. Creating dummy content.
+2019-10-30 11:00:48+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 54026)
+2019-10-30 11:00:48+0100 [api] [6_201910230855_201910230955.m3u8] Received delete request for non-existing content 6_201910230855_201910230955.m3u8. Creating dummy content.
+2019-10-30 11:00:48+0100 [api] [6_201910230750_201910230855.m3u8] Got delete for content 6_201910230750_201910230855.m3u8 but state is already quarantined
+2019-10-30 11:00:49+0100 [api] [6_201910230855_201910230955.m3u8] Got delete for content 6_201910230855_201910230955.m3u8 but state is already quarantined
+2019-10-30 11:00:49+0100 [api] [3366035_201910230850_201910230945.ism] Received delete request for non-existing content 3366035_201910230850_201910230945.ism. Creating dummy content.
+2019-10-30 11:00:49+0100 [api] [3366035_201910230800_201910230850.ism] Received delete request for non-existing content 3366035_201910230800_201910230850.ism. Creating dummy content.
+2019-10-30 11:00:49+0100 [api] [3366035_201910230705_201910230800.ism] Received delete request for non-existing content 3366035_201910230705_201910230800.ism. Creating dummy content.
+2019-10-30 11:00:50+0100 [api] [3366035_201910230850_201910230945.m3u8] Received delete request for non-existing content 3366035_201910230850_201910230945.m3u8. Creating dummy content.
+2019-10-30 11:00:50+0100 [api] [3366035_201910230800_201910230850.m3u8] Received delete request for non-existing content 3366035_201910230800_201910230850.m3u8. Creating dummy content.
+2019-10-30 11:00:50+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 54110)
+2019-10-30 11:00:50+0100 [api] [3366035_201910230705_201910230800.m3u8] Received delete request for non-existing content 3366035_201910230705_201910230800.m3u8. Creating dummy content.
+2019-10-30 11:00:50+0100 [api] [3366035_201910230850_201910230945.m3u8] Got delete for content 3366035_201910230850_201910230945.m3u8 but state is already quarantined
+2019-10-30 11:00:50+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 54106)
+2019-10-30 11:00:50+0100 [api] [3366035_201910230800_201910230850.m3u8] Got delete for content 3366035_201910230800_201910230850.m3u8 but state is already quarantined
+2019-10-30 11:00:50+0100 [api] [3366035_201910230705_201910230800.m3u8] Got delete for content 3366035_201910230705_201910230800.m3u8 but state is already quarantined
+2019-10-30 11:00:50+0100 [api] [3363953_201910230745_201910230930.ism] Received delete request for non-existing content 3363953_201910230745_201910230930.ism. Creating dummy content.
+2019-10-30 11:00:50+0100 [api] [3363953_201910230745_201910230930.m3u8] Received delete request for non-existing content 3363953_201910230745_201910230930.m3u8. Creating dummy content.
+2019-10-30 11:00:50+0100 [api] [3363953_201910230745_201910230930.m3u8] Got delete for content 3363953_201910230745_201910230930.m3u8 but state is already quarantined
+2019-10-30 11:00:50+0100 [api] [84_201910230600_201910230800.ism] Received delete request for non-existing content 84_201910230600_201910230800.ism. Creating dummy content.
+2019-10-30 11:00:50+0100 [api] [84_201910230600_201910230800.m3u8] Received delete request for non-existing content 84_201910230600_201910230800.m3u8. Creating dummy content.
+2019-10-30 11:00:50+0100 [api] [84_201910230600_201910230800.m3u8] Got delete for content 84_201910230600_201910230800.m3u8 but state is already quarantined
+2019-10-30 11:00:50+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 54135)
+2019-10-30 11:00:50+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 54138)
+2019-10-30 11:00:50+0100 [api] [176_201908010750_201908010835.ism] Received delete request for non-existing content 176_201908010750_201908010835.ism. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [176_201908010835_201908010920.ism] Received delete request for non-existing content 176_201908010835_201908010920.ism. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [176_201908010920_201908010945.ism] Received delete request for non-existing content 176_201908010920_201908010945.ism. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [176_201908010750_201908010835.m3u8] Received delete request for non-existing content 176_201908010750_201908010835.m3u8. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [176_201908010835_201908010920.m3u8] Received delete request for non-existing content 176_201908010835_201908010920.m3u8. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [176_201908010920_201908010945.m3u8] Received delete request for non-existing content 176_201908010920_201908010945.m3u8. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [176_201908010750_201908010835.m3u8] Got delete for content 176_201908010750_201908010835.m3u8 but state is already quarantined
+2019-10-30 11:00:51+0100 [api] [176_201908010835_201908010920.m3u8] Got delete for content 176_201908010835_201908010920.m3u8 but state is already quarantined
+2019-10-30 11:00:51+0100 [api] [176_201908010920_201908010945.m3u8] Got delete for content 176_201908010920_201908010945.m3u8 but state is already quarantined
+2019-10-30 11:00:51+0100 [api] [627_201908010840_201908010935.ism] Received delete request for non-existing content 627_201908010840_201908010935.ism. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [627_201908010745_201908010840.ism] Received delete request for non-existing content 627_201908010745_201908010840.ism. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [627_201908010840_201908010935.m3u8] Received delete request for non-existing content 627_201908010840_201908010935.m3u8. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [627_201908010745_201908010840.m3u8] Received delete request for non-existing content 627_201908010745_201908010840.m3u8. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [627_201908010840_201908010935.m3u8] Got delete for content 627_201908010840_201908010935.m3u8 but state is already quarantined
+2019-10-30 11:00:51+0100 [api] [627_201908010745_201908010840.m3u8] Got delete for content 627_201908010745_201908010840.m3u8 but state is already quarantined
+2019-10-30 11:00:51+0100 [api] [636_201908010700_201908010800.ism] Received delete request for non-existing content 636_201908010700_201908010800.ism. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [636_201908010800_201908010830.ism] Received delete request for non-existing content 636_201908010800_201908010830.ism. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [636_201908010700_201908010800.m3u8] Received delete request for non-existing content 636_201908010700_201908010800.m3u8. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [636_201908010800_201908010830.m3u8] Received delete request for non-existing content 636_201908010800_201908010830.m3u8. Creating dummy content.
+2019-10-30 11:00:51+0100 [api] [636_201908010700_201908010800.m3u8] Got delete for content 636_201908010700_201908010800.m3u8 but state is already quarantined
+2019-10-30 11:00:52+0100 [api] [636_201908010800_201908010830.m3u8] Got delete for content 636_201908010800_201908010830.m3u8 but state is already quarantined
+2019-10-30 11:00:52+0100 [api] [164_201908010825_201908010855.ism] Received delete request for non-existing content 164_201908010825_201908010855.ism. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [164_201908010800_201908010825.ism] Received delete request for non-existing content 164_201908010800_201908010825.ism. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [164_201908010730_201908010800.ism] Received delete request for non-existing content 164_201908010730_201908010800.ism. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [164_201908010855_201908010925.ism] Received delete request for non-existing content 164_201908010855_201908010925.ism. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [164_201908010825_201908010855.m3u8] Received delete request for non-existing content 164_201908010825_201908010855.m3u8. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [164_201908010800_201908010825.m3u8] Received delete request for non-existing content 164_201908010800_201908010825.m3u8. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [164_201908010730_201908010800.m3u8] Received delete request for non-existing content 164_201908010730_201908010800.m3u8. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [164_201908010855_201908010925.m3u8] Received delete request for non-existing content 164_201908010855_201908010925.m3u8. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [164_201908010825_201908010855.m3u8] Got delete for content 164_201908010825_201908010855.m3u8 but state is already quarantined
+2019-10-30 11:00:52+0100 [api] [164_201908010800_201908010825.m3u8] Got delete for content 164_201908010800_201908010825.m3u8 but state is already quarantined
+2019-10-30 11:00:52+0100 [api] [164_201908010730_201908010800.m3u8] Got delete for content 164_201908010730_201908010800.m3u8 but state is already quarantined
+2019-10-30 11:00:52+0100 [api] [164_201908010855_201908010925.m3u8] Got delete for content 164_201908010855_201908010925.m3u8 but state is already quarantined
+2019-10-30 11:00:52+0100 [api] [699_201908010815_201908010840.ism] Received delete request for non-existing content 699_201908010815_201908010840.ism. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [699_201908010840_201908010910.ism] Received delete request for non-existing content 699_201908010840_201908010910.ism. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [699_201908010815_201908010840.m3u8] Received delete request for non-existing content 699_201908010815_201908010840.m3u8. Creating dummy content.
+2019-10-30 11:00:52+0100 [api] [699_201908010840_201908010910.m3u8] Received delete request for non-existing content 699_201908010840_201908010910.m3u8. Creating dummy content.
+2019-10-30 11:00:53+0100 [api] [699_201908010815_201908010840.m3u8] Got delete for content 699_201908010815_201908010840.m3u8 but state is already quarantined
+2019-10-30 11:00:53+0100 [api] [699_201908010840_201908010910.m3u8] Got delete for content 699_201908010840_201908010910.m3u8 but state is already quarantined
+2019-10-30 11:00:53+0100 [api] [699_201908010720_201908010815.ism] Received delete request for non-existing content 699_201908010720_201908010815.ism. Creating dummy content.
+2019-10-30 11:00:53+0100 [api] [699_201908010720_201908010815.m3u8] Received delete request for non-existing content 699_201908010720_201908010815.m3u8. Creating dummy content.
+2019-10-30 11:00:54+0100 [api] [699_201908010720_201908010815.m3u8] Got delete for content 699_201908010720_201908010815.m3u8 but state is already quarantined
+2019-10-30 11:00:54+0100 [api] [619_201910280700_201910280900.ism] Received delete request for non-existing content 619_201910280700_201910280900.ism. Creating dummy content.
+2019-10-30 11:00:54+0100 [api] [619_201910280700_201910280900.m3u8] Received delete request for non-existing content 619_201910280700_201910280900.m3u8. Creating dummy content.
+2019-10-30 11:00:54+0100 [api] [619_201910280700_201910280900.m3u8] Received delete request for non-existing content 619_201910280700_201910280900.m3u8. Creating dummy content.
+2019-10-30 11:00:54+0100 [api] [617_201910280845_201910280945.ism] Received delete request for non-existing content 617_201910280845_201910280945.ism. Creating dummy content.
+2019-10-30 11:00:54+0100 [api] [617_201910280845_201910280945.m3u8] Received delete request for non-existing content 617_201910280845_201910280945.m3u8. Creating dummy content.
+2019-10-30 11:00:54+0100 [api] [617_201910280845_201910280945.m3u8] Got delete for content 617_201910280845_201910280945.m3u8 but state is already quarantined
+2019-10-30 11:01:36+0100 [quarantine] [32_201910220831_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:36+0100 [quarantine] [32_201910220831_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:36+0100 [quarantine] [629_201910220905_201910220920.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:36+0100 [quarantine] [32_201910220800_201910220831.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:36+0100 [quarantine] [629_201910220815_201910220825.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [32_201910220900_201910220931.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220825_201910220835.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220835_201910220840.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220855_201910220905.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [59_201910220810_201910220905.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220905_201910220920.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220735_201910220758.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220920_201910220930.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220930_201910220945.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220920_201910220930.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220835_201910220840.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220840_201910220855.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220930_201910220945.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220735_201910220758.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220855_201910220905.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [629_201910220815_201910220825.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [94_201910220900_201910220930.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [2935688_201910220900_201910220929.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:37+0100 [quarantine] [94_201910220830_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [94_201910220830_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [94_201910220900_201910220930.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [1882_201910220758_201910220928.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [1882_201910220702_201910220758.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [2935688_201910220829_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [2935688_201910220900_201910220929.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [2935688_201910220800_201910220829.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [29_201910220741_201910220812.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [1882_201910220603_201910220801.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [2935688_201910220829_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [2935688_201910220800_201910220829.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [71_201910220720_201910220810.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [115_201910220915_201910220935.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [6_201910220800_201910220850.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [71_201910220855_201910220925.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [71_201910220720_201910220810.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [29_201910220812_201910220910.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:38+0100 [quarantine] [71_201910220855_201910220925.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [115_201910220700_201910220830.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [1882_201910220758_201910220928.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [115_201910220915_201910220935.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [124_201910220800_201910220830.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [59_201910220905_201910220950.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [115_201910220830_201910220850.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [115_201910220850_201910220915.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [115_201910220830_201910220850.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [115_201910220850_201910220915.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [160_201910220740_201910220835.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [160_201910220835_201910220930.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [85_201910220840_201910220930.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [1882_201910220702_201910220758.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [71_201910220925_201910220955.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [71_201910220925_201910220955.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [71_201910220810_201910220855.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [115_201910220700_201910220830.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:39+0100 [quarantine] [71_201910220810_201910220855.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [85_201910220840_201910220930.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [26_201910220700_201910220826.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [85_201910220750_201910220840.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [20_201910220700_201910220827.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [6_201910220800_201910220850.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [6_201910220705_201910220800.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [59_201910220720_201910220810.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [124_201910220800_201910220830.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [6_201910220850_201910220945.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [3366035_201910220825_201910220920.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [26_201910220700_201910220826.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [3366035_201910220725_201910220825.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [160_201910220835_201910220930.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [160_201910220740_201910220835.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [3366035_201910220825_201910220920.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [3366035_201910220725_201910220825.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [3363953_201910220600_201910220800.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [84_201910220600_201910220800.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:40+0100 [quarantine] [6_201910220705_201910220800.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [742278402_201910270830_201910270900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [59_201910220905_201910220950.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [59_201910220720_201910220810.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [59_201910220810_201910220905.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [742278402_201910270800_201910270830.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [742278402_201910270830_201910270900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [742278402_201910270800_201910270830.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [6_201910220850_201910220945.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [742278402_201910270400_201910270800.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [742278402_201910270400_201910270800.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [620_201910270540_201910270825.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [84_201910220600_201910220800.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [3363953_201910220600_201910220800.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [176_201907310835_201907310920.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [176_201907310750_201907310835.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [176_201907310920_201907310945.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [29_201910220741_201910220812.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:41+0100 [quarantine] [620_201910270540_201910270825.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [176_201907310920_201907310945.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [176_201907310835_201907310920.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [176_201907310750_201907310835.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [636_201907310800_201907310900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [636_201907310730_201907310800.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [636_201907310730_201907310800.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [636_201907310800_201907310900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [164_201907310720_201907310815.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [164_201907310845_201907310915.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [164_201907310815_201907310845.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [164_201907310720_201907310815.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [164_201907310845_201907310915.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [164_201907310815_201907310845.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [699_201907310815_201907310840.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [699_201907310840_201907310910.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [699_201907310815_201907310840.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [699_201907310840_201907310910.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [627_201907310740_201907310835.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:42+0100 [quarantine] [627_201907310740_201907310835.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [699_201907310910_201907310940.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [699_201907310745_201907310815.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [699_201907310910_201907310940.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [699_201907310745_201907310815.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [124_201910220830_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [124_201910220830_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [619_201910270655_201910270855.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [619_201910270655_201910270855.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [617_201910270700_201910270900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [617_201910270700_201910270900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [172_201910270915_201910270945.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [172_201910270715_201910270915.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [172_201910270915_201910270945.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [172_201910270715_201910270915.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [627_201907310835_201907310930.ism] Content deleted from VDN after quarantine
+2019-10-30 11:01:43+0100 [quarantine] [627_201907310835_201907310930.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:10:04+0100 [api] [174_201908010730_201908010900.m3u8] Got delete for content 174_201908010730_201908010900.m3u8 but state is already quarantined
+2019-10-30 11:10:04+0100 [api] [183_201908010800_201908010900.m3u8] Got delete for content 183_201908010800_201908010900.m3u8 but state is already quarantined
+2019-10-30 11:10:05+0100 [api] [187_201908010800_201908010900.m3u8] Got delete for content 187_201908010800_201908010900.m3u8 but state is already quarantined
+2019-10-30 11:10:07+0100 [api] [168_201908010800_201908010830.m3u8] Got delete for content 168_201908010800_201908010830.m3u8 but state is already quarantined
+2019-10-30 11:10:07+0100 [api] [168_201908010830_201908010930.m3u8] Got delete for content 168_201908010830_201908010930.m3u8 but state is already quarantined
+2019-10-30 11:10:07+0100 [api] [168_201908010730_201908010800.m3u8] Got delete for content 168_201908010730_201908010800.m3u8 but state is already quarantined
+2019-10-30 11:10:08+0100 [api] [183_201908010655_201908010800.m3u8] Got delete for content 183_201908010655_201908010800.m3u8 but state is already quarantined
+2019-10-30 11:10:08+0100 [api] [166_201908010900_201908010930.m3u8] Got delete for content 166_201908010900_201908010930.m3u8 but state is already quarantined
+2019-10-30 11:10:08+0100 [api] [166_201908010800_201908010900.m3u8] Got delete for content 166_201908010800_201908010900.m3u8 but state is already quarantined
+2019-10-30 11:10:08+0100 [api] [633_201908010755_201908010820.ism] Got delete for content 633_201908010755_201908010820.ism but state is already quarantined
+2019-10-30 11:10:09+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 54934)
+2019-10-30 11:10:10+0100 [api] [702_201908010740_201908010810.m3u8] Got delete for content 702_201908010740_201908010810.m3u8 but state is already quarantined
+2019-10-30 11:10:11+0100 [api] [179_201908010805_201908010900.m3u8] Got delete for content 179_201908010805_201908010900.m3u8 but state is already quarantined
+2019-10-30 11:10:11+0100 [api] [179_201908010710_201908010805.m3u8] Got delete for content 179_201908010710_201908010805.m3u8 but state is already quarantined
+2019-10-30 11:10:11+0100 [api] [166_201908010705_201908010800.m3u8] Got delete for content 166_201908010705_201908010800.m3u8 but state is already quarantined
+2019-10-30 11:10:12+0100 [api] [678_201910230800_201910230831.m3u8] Got delete for content 678_201910230800_201910230831.m3u8 but state is already quarantined
+2019-10-30 11:10:12+0100 [api] [616_201910230815_201910230830.m3u8] Got delete for content 616_201910230815_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:10:14+0100 [api] [16_201910230800_201910230900.m3u8] Got delete for content 16_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:10:14+0100 [api] [616_201910230845_201910230900.m3u8] Got delete for content 616_201910230845_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:10:14+0100 [api] [616_201910230830_201910230845.m3u8] Got delete for content 616_201910230830_201910230845.m3u8 but state is already quarantined
+2019-10-30 11:10:15+0100 [api] [112_201910230753_201910230818.m3u8] Got delete for content 112_201910230753_201910230818.m3u8 but state is already quarantined
+2019-10-30 11:10:15+0100 [api] [112_201910230818_201910230829.m3u8] Got delete for content 112_201910230818_201910230829.m3u8 but state is already quarantined
+2019-10-30 11:10:16+0100 [api] [112_201910230829_201910230840.m3u8] Got delete for content 112_201910230829_201910230840.m3u8 but state is already quarantined
+2019-10-30 11:10:16+0100 [api] [112_201910230840_201910230855.m3u8] Got delete for content 112_201910230840_201910230855.m3u8 but state is already quarantined
+2019-10-30 11:10:33+0100 [api] [116_201910230900_201910230936.m3u8] Got delete for content 116_201910230900_201910230936.m3u8 but state is already quarantined
+2019-10-30 11:10:35+0100 [api] [27_201910230855_201910230950.m3u8] Got delete for content 27_201910230855_201910230950.m3u8 but state is already quarantined
+2019-10-30 11:10:36+0100 [api] [58_201910230830_201910230900.m3u8] Got delete for content 58_201910230830_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:10:36+0100 [api] [61_201910230826_201910230914.m3u8] Got delete for content 61_201910230826_201910230914.m3u8 but state is already quarantined
+2019-10-30 11:10:36+0100 [quarantine] [168_201907310800_201907310830.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:10:37+0100 [api] [61_201910230802_201910230826.m3u8] Got delete for content 61_201910230802_201910230826.m3u8 but state is already quarantined
+2019-10-30 11:10:37+0100 [api] [58_201910230900_201910230930.m3u8] Got delete for content 58_201910230900_201910230930.m3u8 but state is already quarantined
+2019-10-30 11:10:37+0100 [api] [161_201910230800_201910230900.m3u8] Got delete for content 161_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:10:37+0100 [api] [58_201910230800_201910230830.m3u8] Got delete for content 58_201910230800_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:10:37+0100 [api] [161_201910230700_201910230800.m3u8] Got delete for content 161_201910230700_201910230800.m3u8 but state is already quarantined
+2019-10-30 11:10:38+0100 [api] [116_201910230800_201910230900.m3u8] Got delete for content 116_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:10:40+0100 [api] [94_201910230830_201910230900.m3u8] Got delete for content 94_201910230830_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:10:41+0100 [api] [1882_201910230803_201910230925.m3u8] Got delete for content 1882_201910230803_201910230925.m3u8 but state is already quarantined
+2019-10-30 11:10:41+0100 [api] [1882_201910230704_201910230803.m3u8] Got delete for content 1882_201910230704_201910230803.m3u8 but state is already quarantined
+2019-10-30 11:10:41+0100 [api] [29_201910230729_201910230758.m3u8] Got delete for content 29_201910230729_201910230758.m3u8 but state is already quarantined
+2019-10-30 11:10:41+0100 [api] [636_201908010830_201908010900.m3u8] Got delete for content 636_201908010830_201908010900.m3u8 but state is already quarantined
+2019-10-30 11:10:42+0100 [api] [71_201910230810_201910230855.m3u8] Got delete for content 71_201910230810_201910230855.m3u8 but state is already quarantined
+2019-10-30 11:10:43+0100 [api] [115_201910230915_201910230935.m3u8] Got delete for content 115_201910230915_201910230935.m3u8 but state is already quarantined
+2019-10-30 11:10:43+0100 [api] [115_201910230700_201910230830.m3u8] Got delete for content 115_201910230700_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:10:43+0100 [api] [115_201910230850_201910230915.m3u8] Got delete for content 115_201910230850_201910230915.m3u8 but state is already quarantined
+2019-10-30 11:10:43+0100 [api] [115_201910230830_201910230850.m3u8] Got delete for content 115_201910230830_201910230850.m3u8 but state is already quarantined
+2019-10-30 11:10:43+0100 [api] [124_201910230800_201910230830.m3u8] Got delete for content 124_201910230800_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:10:43+0100 [api] [124_201910230830_201910230900.m3u8] Got delete for content 124_201910230830_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:10:44+0100 [api] [85_201910230820_201910230905.m3u8] Got delete for content 85_201910230820_201910230905.m3u8 but state is already quarantined
+2019-10-30 11:10:44+0100 [api] [85_201910230735_201910230820.m3u8] Got delete for content 85_201910230735_201910230820.m3u8 but state is already quarantined
+2019-10-30 11:10:44+0100 [api] [85_201910230905_201910230950.m3u8] Got delete for content 85_201910230905_201910230950.m3u8 but state is already quarantined
+2019-10-30 11:10:44+0100 [api] [160_201910230835_201910230930.m3u8] Got delete for content 160_201910230835_201910230930.m3u8 but state is already quarantined
+2019-10-30 11:10:44+0100 [api] [160_201910230740_201910230835.m3u8] Got delete for content 160_201910230740_201910230835.m3u8 but state is already quarantined
+2019-10-30 11:10:46+0100 [api] [26_201910230700_201910230811.m3u8] Got delete for content 26_201910230700_201910230811.m3u8 but state is already quarantined
+2019-10-30 11:10:46+0100 [api] [59_201910230905_201910230955.m3u8] Got delete for content 59_201910230905_201910230955.m3u8 but state is already quarantined
+2019-10-30 11:10:46+0100 [api] [59_201910230810_201910230905.m3u8] Got delete for content 59_201910230810_201910230905.m3u8 but state is already quarantined
+2019-10-30 11:10:50+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 54992)
+2019-10-30 11:10:50+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 54998)
+2019-10-30 11:10:50+0100 [api] [3366035_201910230800_201910230850.m3u8] Got delete for content 3366035_201910230800_201910230850.m3u8 but state is already quarantined
+2019-10-30 11:10:50+0100 [api] [3366035_201910230705_201910230800.m3u8] Got delete for content 3366035_201910230705_201910230800.m3u8 but state is already quarantined
+2019-10-30 11:10:50+0100 [api] [3363953_201910230745_201910230930.m3u8] Got delete for content 3363953_201910230745_201910230930.m3u8 but state is already quarantined
+2019-10-30 11:10:50+0100 [api] [84_201910230600_201910230800.m3u8] Got delete for content 84_201910230600_201910230800.m3u8 but state is already quarantined
+2019-10-30 11:10:51+0100 [api] [176_201908010750_201908010835.m3u8] Got delete for content 176_201908010750_201908010835.m3u8 but state is already quarantined
+2019-10-30 11:10:51+0100 [api] [176_201908010835_201908010920.m3u8] Got delete for content 176_201908010835_201908010920.m3u8 but state is already quarantined
+2019-10-30 11:10:51+0100 [api] [627_201908010840_201908010935.m3u8] Got delete for content 627_201908010840_201908010935.m3u8 but state is already quarantined
+2019-10-30 11:10:51+0100 [api] [627_201908010745_201908010840.m3u8] Got delete for content 627_201908010745_201908010840.m3u8 but state is already quarantined
+2019-10-30 11:10:51+0100 [api] [636_201908010700_201908010800.m3u8] Got delete for content 636_201908010700_201908010800.m3u8 but state is already quarantined
+2019-10-30 11:10:52+0100 [api] [636_201908010800_201908010830.m3u8] Got delete for content 636_201908010800_201908010830.m3u8 but state is already quarantined
+2019-10-30 11:10:53+0100 [api] [699_201908010815_201908010840.m3u8] Got delete for content 699_201908010815_201908010840.m3u8 but state is already quarantined
+2019-10-30 11:10:53+0100 [api] [699_201908010840_201908010910.m3u8] Got delete for content 699_201908010840_201908010910.m3u8 but state is already quarantined
+2019-10-30 11:10:54+0100 [api] [699_201908010720_201908010815.m3u8] Got delete for content 699_201908010720_201908010815.m3u8 but state is already quarantined
+2019-10-30 11:10:54+0100 [api] [619_201910280700_201910280900.m3u8] Got delete for content 619_201910280700_201910280900.m3u8 but state is already quarantined
+2019-10-30 11:10:54+0100 [api] [617_201910280845_201910280945.m3u8] Got delete for content 617_201910280845_201910280945.m3u8 but state is already quarantined
+2019-10-30 11:11:36+0100 [quarantine] [29_201910220812_201910220910.ism] Content deleted from VDN after quarantine
+2019-10-30 11:11:36+0100 [quarantine] [629_201910220840_201910220855.ism] Content deleted from VDN after quarantine
+2019-10-30 11:11:36+0100 [quarantine] [85_201910220750_201910220840.ism] Content deleted from VDN after quarantine
+2019-10-30 11:11:36+0100 [quarantine] [161_201910220800_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:15:38+0100 [api] [43321471_201911040330_201911040429.ism] Received delete request for non-existing content 43321471_201911040330_201911040429.ism. Creating dummy content.
+2019-10-30 11:15:38+0100 [api] [43321471_201911040330_201911040429.m3u8] Received delete request for non-existing content 43321471_201911040330_201911040429.m3u8. Creating dummy content.
+2019-10-30 11:15:38+0100 [api] [43321471_201911040330_201911040429.m3u8] Received delete request for non-existing content 43321471_201911040330_201911040429.m3u8. Creating dummy content.
+2019-10-30 11:28:44+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 58971)
+2019-10-30 11:28:45+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 58980)
+2019-10-30 11:28:45+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 58992)
+2019-10-30 11:28:45+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 58982)
+2019-10-30 11:28:45+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 58970)
+2019-10-30 11:28:45+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 58986)
+2019-10-30 11:30:02+0100 [api] [122_201910230900_201910231000.m3u8] Received delete request for non-existing content 122_201910230900_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:02+0100 [api] [122_201910230900_201910231000.ism] Received delete request for non-existing content 122_201910230900_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:02+0100 [api] [122_201910230900_201910231000.m3u8] Got delete for content 122_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:02+0100 [api] [122_201910231000_201910231105.m3u8] Received delete request for non-existing content 122_201910231000_201910231105.m3u8. Creating dummy content.
+2019-10-30 11:30:02+0100 [api] [122_201910231000_201910231105.ism] Received delete request for non-existing content 122_201910231000_201910231105.ism. Creating dummy content.
+2019-10-30 11:30:02+0100 [api] [122_201910231000_201910231105.m3u8] Got delete for content 122_201910231000_201910231105.m3u8 but state is already quarantined
+2019-10-30 11:30:02+0100 [api] [27_201910230855_201910230950.ism] Got delete for content 27_201910230855_201910230950.ism but state is already quarantined
+2019-10-30 11:30:02+0100 [api] [27_201910230800_201910230855.ism] Got delete for content 27_201910230800_201910230855.ism but state is already quarantined
+2019-10-30 11:30:02+0100 [api] [27_201910230855_201910230950.m3u8] Got delete for content 27_201910230855_201910230950.m3u8 but state is already quarantined
+2019-10-30 11:30:02+0100 [api] [27_201910230800_201910230855.m3u8] Got delete for content 27_201910230800_201910230855.m3u8 but state is already quarantined
+2019-10-30 11:30:02+0100 [api] [27_201910230855_201910230950.m3u8] Got delete for content 27_201910230855_201910230950.m3u8 but state is already quarantined
+2019-10-30 11:30:02+0100 [api] [27_201910230800_201910230855.m3u8] Got delete for content 27_201910230800_201910230855.m3u8 but state is already quarantined
+2019-10-30 11:30:03+0100 [api] [61_201910230802_201910230826.ism] Got delete for content 61_201910230802_201910230826.ism but state is already quarantined
+2019-10-30 11:30:03+0100 [api] [61_201910230802_201910230826.m3u8] Got delete for content 61_201910230802_201910230826.m3u8 but state is already quarantined
+2019-10-30 11:30:03+0100 [api] [61_201910230802_201910230826.m3u8] Got delete for content 61_201910230802_201910230826.m3u8 but state is already quarantined
+2019-10-30 11:30:03+0100 [api] [124_201910230800_201910230900.ism] Received delete request for non-existing content 124_201910230800_201910230900.ism. Creating dummy content.
+2019-10-30 11:30:03+0100 [api] [124_201910230900_201910231000.m3u8] Received delete request for non-existing content 124_201910230900_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:03+0100 [api] [124_201910230900_201910231000.ism] Received delete request for non-existing content 124_201910230900_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:03+0100 [api] [124_201910230900_201910231000.m3u8] Got delete for content 124_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:03+0100 [api] [55_201910230758_201910230955.ism] Received delete request for non-existing content 55_201910230758_201910230955.ism. Creating dummy content.
+2019-10-30 11:30:03+0100 [api] [124_201910230800_201910230900.m3u8] Received delete request for non-existing content 124_201910230800_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:03+0100 [api] [124_201910230800_201910230900.m3u8] Received delete request for non-existing content 124_201910230800_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:03+0100 [api] [55_201910230758_201910230955.m3u8] Received delete request for non-existing content 55_201910230758_201910230955.m3u8. Creating dummy content.
+2019-10-30 11:30:03+0100 [api] [17_201910230800_201910230900.ism] Received delete request for non-existing content 17_201910230800_201910230900.ism. Creating dummy content.
+2019-10-30 11:30:03+0100 [api] [55_201910230758_201910230955.m3u8] Got delete for content 55_201910230758_201910230955.m3u8 but state is already quarantined
+2019-10-30 11:30:03+0100 [api] [17_201910230900_201910231000.ism] Received delete request for non-existing content 17_201910230900_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:03+0100 [api] [17_201910230800_201910230900.m3u8] Received delete request for non-existing content 17_201910230800_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:04+0100 [api] [17_201910230900_201910231000.m3u8] Received delete request for non-existing content 17_201910230900_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:04+0100 [api] [17_201910230800_201910230900.m3u8] Got delete for content 17_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:04+0100 [api] [17_201910230900_201910231000.m3u8] Got delete for content 17_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:06+0100 [api] [98_201910300610_201910300659.ism] Received delete request for non-existing content 98_201910300610_201910300659.ism. Creating dummy content.
+2019-10-30 11:30:06+0100 [api] [98_201910300610_201910300659.m3u8] Received delete request for non-existing content 98_201910300610_201910300659.m3u8. Creating dummy content.
+2019-10-30 11:30:06+0100 [api] [98_201910300610_201910300659.m3u8] Got delete for content 98_201910300610_201910300659.m3u8 but state is already quarantined
+2019-10-30 11:30:06+0100 [api] [98_201910300710_201910300759.ism] Received delete request for non-existing content 98_201910300710_201910300759.ism. Creating dummy content.
+2019-10-30 11:30:06+0100 [api] [98_201910300710_201910300759.m3u8] Received delete request for non-existing content 98_201910300710_201910300759.m3u8. Creating dummy content.
+2019-10-30 11:30:06+0100 [api] [98_201910300710_201910300759.m3u8] Got delete for content 98_201910300710_201910300759.m3u8 but state is already quarantined
+2019-10-30 11:30:06+0100 [api] [98_201910300800_201910300809.ism] Received delete request for non-existing content 98_201910300800_201910300809.ism. Creating dummy content.
+2019-10-30 11:30:06+0100 [api] [98_201910300800_201910300809.m3u8] Received delete request for non-existing content 98_201910300800_201910300809.m3u8. Creating dummy content.
+2019-10-30 11:30:07+0100 [api] [98_201910300800_201910300809.m3u8] Got delete for content 98_201910300800_201910300809.m3u8 but state is already quarantined
+2019-10-30 11:30:07+0100 [api] [98_201910300900_201910300909.ism] Received delete request for non-existing content 98_201910300900_201910300909.ism. Creating dummy content.
+2019-10-30 11:30:07+0100 [api] [98_201910300900_201910300909.m3u8] Received delete request for non-existing content 98_201910300900_201910300909.m3u8. Creating dummy content.
+2019-10-30 11:30:07+0100 [api] [98_201910300900_201910300909.m3u8] Got delete for content 98_201910300900_201910300909.m3u8 but state is already quarantined
+2019-10-30 11:30:07+0100 [api] [98_201910300910_201910300929.ism] Received delete request for non-existing content 98_201910300910_201910300929.ism. Creating dummy content.
+2019-10-30 11:30:07+0100 [api] [98_201910300910_201910300929.m3u8] Received delete request for non-existing content 98_201910300910_201910300929.m3u8. Creating dummy content.
+2019-10-30 11:30:07+0100 [api] [98_201910300910_201910300929.m3u8] Got delete for content 98_201910300910_201910300929.m3u8 but state is already quarantined
+2019-10-30 11:30:07+0100 [api] [98_201910300930_201910300939.ism] Received delete request for non-existing content 98_201910300930_201910300939.ism. Creating dummy content.
+2019-10-30 11:30:07+0100 [api] [98_201910300930_201910300939.m3u8] Received delete request for non-existing content 98_201910300930_201910300939.m3u8. Creating dummy content.
+2019-10-30 11:30:08+0100 [api] [98_201910300930_201910300939.m3u8] Got delete for content 98_201910300930_201910300939.m3u8 but state is already quarantined
+2019-10-30 11:30:08+0100 [api] [98_201910300400_201910300600.m3u8] Received delete request for non-existing content 98_201910300400_201910300600.m3u8. Creating dummy content.
+2019-10-30 11:30:08+0100 [api] [98_201910300400_201910300600.m3u8] Got delete for content 98_201910300400_201910300600.m3u8 but state is already quarantined
+2019-10-30 11:30:08+0100 [api] [98_201910300400_201910300600.ism] Received delete request for non-existing content 98_201910300400_201910300600.ism. Creating dummy content.
+2019-10-30 11:30:08+0100 [api] [28_201909300800_201909300900.ism] Received delete request for non-existing content 28_201909300800_201909300900.ism. Creating dummy content.
+2019-10-30 11:30:09+0100 [api] [28_201909300900_201909301000.ism] Received delete request for non-existing content 28_201909300900_201909301000.ism. Creating dummy content.
+2019-10-30 11:30:09+0100 [api] [28_201909300800_201909300900.m3u8] Received delete request for non-existing content 28_201909300800_201909300900.m3u8. Creating dummy content.
+2019-10-30 11:30:09+0100 [api] [28_201909300800_201909300900.m3u8] Got delete for content 28_201909300800_201909300900.m3u8 but state is already quarantined
+2019-10-30 11:30:09+0100 [api] [28_201909300900_201909301000.m3u8] Received delete request for non-existing content 28_201909300900_201909301000.m3u8. Creating dummy content.
+2019-10-30 11:30:09+0100 [api] [28_201909300900_201909301000.m3u8] Got delete for content 28_201909300900_201909301000.m3u8 but state is already quarantined
+2019-10-30 11:30:09+0100 [api] [114_201909300940_201909301025.ism] Received delete request for non-existing content 114_201909300940_201909301025.ism. Creating dummy content.
+2019-10-30 11:30:09+0100 [api] [114_201909300805_201909300850.ism] Got delete for content 114_201909300805_201909300850.ism but state is already quarantined
+2019-10-30 11:30:09+0100 [api] [114_201909300850_201909300940.ism] Got delete for content 114_201909300850_201909300940.ism but state is already quarantined
+2019-10-30 11:30:09+0100 [api] [114_201909300940_201909301025.m3u8] Received delete request for non-existing content 114_201909300940_201909301025.m3u8. Creating dummy content.
+2019-10-30 11:30:09+0100 [api] [114_201909300805_201909300850.m3u8] Got delete for content 114_201909300805_201909300850.m3u8 but state is already quarantined
+2019-10-30 11:30:09+0100 [api] [114_201909300850_201909300940.m3u8] Got delete for content 114_201909300850_201909300940.m3u8 but state is already quarantined
+2019-10-30 11:30:09+0100 [api] [114_201909300940_201909301025.m3u8] Got delete for content 114_201909300940_201909301025.m3u8 but state is already quarantined
+2019-10-30 11:30:10+0100 [api] [114_201909300805_201909300850.m3u8] Got delete for content 114_201909300805_201909300850.m3u8 but state is already quarantined
+2019-10-30 11:30:10+0100 [api] [114_201909300850_201909300940.m3u8] Got delete for content 114_201909300850_201909300940.m3u8 but state is already quarantined
+2019-10-30 11:30:10+0100 [api] [32_201910230831_201910230900.ism] Got delete for content 32_201910230831_201910230900.ism but state is already quarantined
+2019-10-30 11:30:10+0100 [api] [32_201910230831_201910230900.m3u8] Got delete for content 32_201910230831_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:10+0100 [api] [32_201910230831_201910230900.m3u8] Got delete for content 32_201910230831_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:10+0100 [api] [61_201910230826_201910230914.ism] Got delete for content 61_201910230826_201910230914.ism but state is already quarantined
+2019-10-30 11:30:10+0100 [api] [61_201910230914_201910231002.ism] Received delete request for non-existing content 61_201910230914_201910231002.ism. Creating dummy content.
+2019-10-30 11:30:10+0100 [api] [61_201910230826_201910230914.m3u8] Got delete for content 61_201910230826_201910230914.m3u8 but state is already quarantined
+2019-10-30 11:30:10+0100 [api] [61_201910230914_201910231002.m3u8] Received delete request for non-existing content 61_201910230914_201910231002.m3u8. Creating dummy content.
+2019-10-30 11:30:10+0100 [api] [61_201910230826_201910230914.m3u8] Got delete for content 61_201910230826_201910230914.m3u8 but state is already quarantined
+2019-10-30 11:30:11+0100 [api] [61_201910230914_201910231002.m3u8] Got delete for content 61_201910230914_201910231002.m3u8 but state is already quarantined
+2019-10-30 11:30:11+0100 [api] [62_201910230800_201910230900.ism] Received delete request for non-existing content 62_201910230800_201910230900.ism. Creating dummy content.
+2019-10-30 11:30:11+0100 [api] [62_201910230900_201910231000.ism] Received delete request for non-existing content 62_201910230900_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:11+0100 [api] [62_201910230900_201910231000.m3u8] Received delete request for non-existing content 62_201910230900_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:11+0100 [api] [62_201910230800_201910230900.m3u8] Received delete request for non-existing content 62_201910230800_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:11+0100 [api] [62_201910230900_201910231000.m3u8] Received delete request for non-existing content 62_201910230900_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:11+0100 [api] [62_201910230800_201910230900.m3u8] Received delete request for non-existing content 62_201910230800_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:11+0100 [api] [63_201910230722_201910230749.m3u8] Received delete request for non-existing content 63_201910230722_201910230749.m3u8. Creating dummy content.
+2019-10-30 11:30:11+0100 [api] [63_201910230722_201910230749.ism] Received delete request for non-existing content 63_201910230722_201910230749.ism. Creating dummy content.
+2019-10-30 11:30:11+0100 [api] [63_201910230722_201910230749.m3u8] Got delete for content 63_201910230722_201910230749.m3u8 but state is already quarantined
+2019-10-30 11:30:11+0100 [api] [63_201910230749_201910230817.m3u8] Received delete request for non-existing content 63_201910230749_201910230817.m3u8. Creating dummy content.
+2019-10-30 11:30:11+0100 [api] [63_201910230749_201910230817.ism] Received delete request for non-existing content 63_201910230749_201910230817.ism. Creating dummy content.
+2019-10-30 11:30:12+0100 [api] [63_201910230749_201910230817.m3u8] Got delete for content 63_201910230749_201910230817.m3u8 but state is already quarantined
+2019-10-30 11:30:12+0100 [api] [63_201910230817_201910230845.m3u8] Received delete request for non-existing content 63_201910230817_201910230845.m3u8. Creating dummy content.
+2019-10-30 11:30:12+0100 [api] [63_201910230817_201910230845.ism] Received delete request for non-existing content 63_201910230817_201910230845.ism. Creating dummy content.
+2019-10-30 11:30:12+0100 [api] [63_201910230817_201910230845.m3u8] Got delete for content 63_201910230817_201910230845.m3u8 but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [63_201910230845_201910230912.m3u8] Received delete request for non-existing content 63_201910230845_201910230912.m3u8. Creating dummy content.
+2019-10-30 11:30:13+0100 [api] [63_201910230845_201910230912.ism] Received delete request for non-existing content 63_201910230845_201910230912.ism. Creating dummy content.
+2019-10-30 11:30:13+0100 [api] [63_201910230845_201910230912.m3u8] Got delete for content 63_201910230845_201910230912.m3u8 but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [112_201910230728_201910230753.m3u8] Got delete for content 112_201910230728_201910230753.m3u8 but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [112_201910230728_201910230753.ism] Got delete for content 112_201910230728_201910230753.ism but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [112_201910230728_201910230753.m3u8] Got delete for content 112_201910230728_201910230753.m3u8 but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [112_201910230753_201910230818.m3u8] Got delete for content 112_201910230753_201910230818.m3u8 but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [112_201910230753_201910230818.ism] Got delete for content 112_201910230753_201910230818.ism but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [112_201910230753_201910230818.m3u8] Got delete for content 112_201910230753_201910230818.m3u8 but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [112_201910230818_201910230829.m3u8] Got delete for content 112_201910230818_201910230829.m3u8 but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [112_201910230818_201910230829.ism] Got delete for content 112_201910230818_201910230829.ism but state is already quarantined
+2019-10-30 11:30:13+0100 [api] [112_201910230818_201910230829.m3u8] Got delete for content 112_201910230818_201910230829.m3u8 but state is already quarantined
+2019-10-30 11:30:14+0100 [api] [112_201910230829_201910230840.m3u8] Got delete for content 112_201910230829_201910230840.m3u8 but state is already quarantined
+2019-10-30 11:30:14+0100 [api] [112_201910230829_201910230840.ism] Got delete for content 112_201910230829_201910230840.ism but state is already quarantined
+2019-10-30 11:30:14+0100 [api] [112_201910230829_201910230840.m3u8] Got delete for content 112_201910230829_201910230840.m3u8 but state is already quarantined
+2019-10-30 11:30:14+0100 [api] [112_201910230840_201910230855.m3u8] Got delete for content 112_201910230840_201910230855.m3u8 but state is already quarantined
+2019-10-30 11:30:14+0100 [api] [112_201910230840_201910230855.ism] Got delete for content 112_201910230840_201910230855.ism but state is already quarantined
+2019-10-30 11:30:14+0100 [api] [112_201910230840_201910230855.m3u8] Got delete for content 112_201910230840_201910230855.m3u8 but state is already quarantined
+2019-10-30 11:30:14+0100 [api] [112_201910230855_201910230906.m3u8] Received delete request for non-existing content 112_201910230855_201910230906.m3u8. Creating dummy content.
+2019-10-30 11:30:14+0100 [api] [112_201910230855_201910230906.ism] Received delete request for non-existing content 112_201910230855_201910230906.ism. Creating dummy content.
+2019-10-30 11:30:14+0100 [api] [112_201910230855_201910230906.m3u8] Got delete for content 112_201910230855_201910230906.m3u8 but state is already quarantined
+2019-10-30 11:30:14+0100 [api] [112_201910230906_201910230921.m3u8] Received delete request for non-existing content 112_201910230906_201910230921.m3u8. Creating dummy content.
+2019-10-30 11:30:14+0100 [api] [112_201910230906_201910230921.ism] Received delete request for non-existing content 112_201910230906_201910230921.ism. Creating dummy content.
+2019-10-30 11:30:14+0100 [api] [112_201910230906_201910230921.m3u8] Got delete for content 112_201910230906_201910230921.m3u8 but state is already quarantined
+2019-10-30 11:30:14+0100 [api] [58_201910230830_201910230900.ism] Got delete for content 58_201910230830_201910230900.ism but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [58_201910230900_201910230930.ism] Got delete for content 58_201910230900_201910230930.ism but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [58_201910230800_201910230830.ism] Got delete for content 58_201910230800_201910230830.ism but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [58_201910230930_201910231000.ism] Received delete request for non-existing content 58_201910230930_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:15+0100 [api] [58_201910230830_201910230900.m3u8] Got delete for content 58_201910230830_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [58_201910230800_201910230830.m3u8] Got delete for content 58_201910230800_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [58_201910230900_201910230930.m3u8] Got delete for content 58_201910230900_201910230930.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [58_201910230930_201910231000.m3u8] Received delete request for non-existing content 58_201910230930_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:15+0100 [api] [58_201910230830_201910230900.m3u8] Got delete for content 58_201910230830_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [58_201910230900_201910230930.m3u8] Got delete for content 58_201910230900_201910230930.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [58_201910230800_201910230830.m3u8] Got delete for content 58_201910230800_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [94_201910230830_201910230900.ism] Got delete for content 94_201910230830_201910230900.ism but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [58_201910230930_201910231000.m3u8] Got delete for content 58_201910230930_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [94_201910230800_201910230830.ism] Got delete for content 94_201910230800_201910230830.ism but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [94_201910230930_201910231000.ism] Received delete request for non-existing content 94_201910230930_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:15+0100 [api] [94_201910230900_201910230930.ism] Got delete for content 94_201910230900_201910230930.ism but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [94_201910230800_201910230830.m3u8] Got delete for content 94_201910230800_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [94_201910230830_201910230900.m3u8] Got delete for content 94_201910230830_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [94_201910230900_201910230930.m3u8] Got delete for content 94_201910230900_201910230930.m3u8 but state is already quarantined
+2019-10-30 11:30:15+0100 [api] [94_201910230930_201910231000.m3u8] Received delete request for non-existing content 94_201910230930_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:16+0100 [api] [94_201910230800_201910230830.m3u8] Got delete for content 94_201910230800_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [94_201910230830_201910230900.m3u8] Got delete for content 94_201910230830_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [94_201910230930_201910231000.m3u8] Got delete for content 94_201910230930_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [94_201910230900_201910230930.m3u8] Got delete for content 94_201910230900_201910230930.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [32_201910230931_201910231000.ism] Received delete request for non-existing content 32_201910230931_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:16+0100 [api] [32_201910230900_201910230931.ism] Got delete for content 32_201910230900_201910230931.ism but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [32_201910230800_201910230831.ism] Got delete for content 32_201910230800_201910230831.ism but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [32_201910230931_201910231000.m3u8] Received delete request for non-existing content 32_201910230931_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:16+0100 [api] [32_201910230900_201910230931.m3u8] Got delete for content 32_201910230900_201910230931.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [32_201910230800_201910230831.m3u8] Got delete for content 32_201910230800_201910230831.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [32_201910230931_201910231000.m3u8] Got delete for content 32_201910230931_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [32_201910230900_201910230931.m3u8] Got delete for content 32_201910230900_201910230931.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [32_201910230800_201910230831.m3u8] Got delete for content 32_201910230800_201910230831.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [2935688_201910230929_201910231000.ism] Received delete request for non-existing content 2935688_201910230929_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:16+0100 [api] [2935688_201910230900_201910230929.ism] Got delete for content 2935688_201910230900_201910230929.ism but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [2935688_201910230800_201910230829.ism] Got delete for content 2935688_201910230800_201910230829.ism but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [2935688_201910230829_201910230900.ism] Got delete for content 2935688_201910230829_201910230900.ism but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [2935688_201910230900_201910230929.m3u8] Got delete for content 2935688_201910230900_201910230929.m3u8 but state is already quarantined
+2019-10-30 11:30:16+0100 [api] [2935688_201910230929_201910231000.m3u8] Received delete request for non-existing content 2935688_201910230929_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:17+0100 [api] [2935688_201910230800_201910230829.m3u8] Got delete for content 2935688_201910230800_201910230829.m3u8 but state is already quarantined
+2019-10-30 11:30:17+0100 [api] [2935688_201910230829_201910230900.m3u8] Got delete for content 2935688_201910230829_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:17+0100 [api] [2935688_201910230929_201910231000.m3u8] Got delete for content 2935688_201910230929_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:17+0100 [api] [2935688_201910230900_201910230929.m3u8] Got delete for content 2935688_201910230900_201910230929.m3u8 but state is already quarantined
+2019-10-30 11:30:17+0100 [api] [2935688_201910230800_201910230829.m3u8] Got delete for content 2935688_201910230800_201910230829.m3u8 but state is already quarantined
+2019-10-30 11:30:17+0100 [api] [2935688_201910230829_201910230900.m3u8] Got delete for content 2935688_201910230829_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:18+0100 [api] [43321471_201910230945_201910231050.m3u8] Received delete request for non-existing content 43321471_201910230945_201910231050.m3u8. Creating dummy content.
+2019-10-30 11:30:18+0100 [api] [43321471_201910230945_201910231050.ism] Received delete request for non-existing content 43321471_201910230945_201910231050.ism. Creating dummy content.
+2019-10-30 11:30:18+0100 [api] [43321471_201910230945_201910231050.m3u8] Got delete for content 43321471_201910230945_201910231050.m3u8 but state is already quarantined
+2019-10-30 11:30:18+0100 [api] [69_201910230905_201910231005.ism] Received delete request for non-existing content 69_201910230905_201910231005.ism. Creating dummy content.
+2019-10-30 11:30:18+0100 [api] [69_201910230835_201910230905.ism] Received delete request for non-existing content 69_201910230835_201910230905.ism. Creating dummy content.
+2019-10-30 11:30:18+0100 [api] [69_201910230810_201910230835.ism] Received delete request for non-existing content 69_201910230810_201910230835.ism. Creating dummy content.
+2019-10-30 11:30:18+0100 [api] [69_201910230905_201910231005.m3u8] Received delete request for non-existing content 69_201910230905_201910231005.m3u8. Creating dummy content.
+2019-10-30 11:30:18+0100 [api] [69_201910230835_201910230905.m3u8] Received delete request for non-existing content 69_201910230835_201910230905.m3u8. Creating dummy content.
+2019-10-30 11:30:18+0100 [api] [69_201910230810_201910230835.m3u8] Received delete request for non-existing content 69_201910230810_201910230835.m3u8. Creating dummy content.
+2019-10-30 11:30:18+0100 [api] [69_201910230905_201910231005.m3u8] Got delete for content 69_201910230905_201910231005.m3u8 but state is already quarantined
+2019-10-30 11:30:18+0100 [api] [69_201910230835_201910230905.m3u8] Got delete for content 69_201910230835_201910230905.m3u8 but state is already quarantined
+2019-10-30 11:30:19+0100 [api] [69_201910230810_201910230835.m3u8] Got delete for content 69_201910230810_201910230835.m3u8 but state is already quarantined
+2019-10-30 11:30:19+0100 [api] [9_201910230729_201910230809.ism] Received delete request for non-existing content 9_201910230729_201910230809.ism. Creating dummy content.
+2019-10-30 11:30:20+0100 [api] [9_201910230729_201910230809.m3u8] Received delete request for non-existing content 9_201910230729_201910230809.m3u8. Creating dummy content.
+2019-10-30 11:30:20+0100 [api] [9_201910230729_201910230809.m3u8] Received delete request for non-existing content 9_201910230729_201910230809.m3u8. Creating dummy content.
+2019-10-30 11:30:20+0100 [api] [9_201910230809_201910230850.ism] Received delete request for non-existing content 9_201910230809_201910230850.ism. Creating dummy content.
+2019-10-30 11:30:20+0100 [api] [72_201910230800_201910230900.ism] Received delete request for non-existing content 72_201910230800_201910230900.ism. Creating dummy content.
+2019-10-30 11:30:20+0100 [api] [72_201910230800_201910230900.m3u8] Received delete request for non-existing content 72_201910230800_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:20+0100 [api] [72_201910230800_201910230900.m3u8] Got delete for content 72_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:21+0100 [api] [113_201910230831_201910230900.m3u8] Received delete request for non-existing content 113_201910230831_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [113_201910230831_201910230900.ism] Received delete request for non-existing content 113_201910230831_201910230900.ism. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [113_201910230831_201910230900.m3u8] Received delete request for non-existing content 113_201910230831_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [19_201910230745_201910230800.m3u8] Received delete request for non-existing content 19_201910230745_201910230800.m3u8. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [19_201910230745_201910230800.ism] Received delete request for non-existing content 19_201910230745_201910230800.ism. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [19_201910230745_201910230800.m3u8] Got delete for content 19_201910230745_201910230800.m3u8 but state is already quarantined
+2019-10-30 11:30:21+0100 [api] [19_201910230830_201910230845.m3u8] Received delete request for non-existing content 19_201910230830_201910230845.m3u8. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [19_201910230830_201910230845.ism] Received delete request for non-existing content 19_201910230830_201910230845.ism. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [19_201910230830_201910230845.m3u8] Got delete for content 19_201910230830_201910230845.m3u8 but state is already quarantined
+2019-10-30 11:30:21+0100 [api] [19_201910230845_201910230900.ism] Received delete request for non-existing content 19_201910230845_201910230900.ism. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [19_201910230845_201910230900.m3u8] Received delete request for non-existing content 19_201910230845_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [19_201910230845_201910230900.m3u8] Got delete for content 19_201910230845_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:21+0100 [api] [16_201910230800_201910230900.ism] Got delete for content 16_201910230800_201910230900.ism but state is already quarantined
+2019-10-30 11:30:21+0100 [api] [16_201910230800_201910230900.m3u8] Got delete for content 16_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:21+0100 [api] [16_201910230900_201910231000.ism] Received delete request for non-existing content 16_201910230900_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:21+0100 [api] [16_201910230900_201910231000.m3u8] Received delete request for non-existing content 16_201910230900_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:22+0100 [api] [16_201910230800_201910230900.m3u8] Got delete for content 16_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:22+0100 [api] [16_201910230900_201910231000.m3u8] Got delete for content 16_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:22+0100 [api] [3370992_201910230900_201910230955.m3u8] Received delete request for non-existing content 3370992_201910230900_201910230955.m3u8. Creating dummy content.
+2019-10-30 11:30:22+0100 [api] [3370992_201910230900_201910230955.ism] Received delete request for non-existing content 3370992_201910230900_201910230955.ism. Creating dummy content.
+2019-10-30 11:30:22+0100 [api] [3370992_201910230900_201910230955.m3u8] Got delete for content 3370992_201910230900_201910230955.m3u8 but state is already quarantined
+2019-10-30 11:30:22+0100 [api] [31_201910230900_201910231000.m3u8] Received delete request for non-existing content 31_201910230900_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:22+0100 [api] [31_201910230900_201910231000.ism] Received delete request for non-existing content 31_201910230900_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:23+0100 [api] [31_201910230900_201910231000.m3u8] Got delete for content 31_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:23+0100 [api] [31_201910231000_201910231100.m3u8] Received delete request for non-existing content 31_201910231000_201910231100.m3u8. Creating dummy content.
+2019-10-30 11:30:23+0100 [api] [31_201910231000_201910231100.ism] Received delete request for non-existing content 31_201910231000_201910231100.ism. Creating dummy content.
+2019-10-30 11:30:24+0100 [api] [31_201910231000_201910231100.m3u8] Got delete for content 31_201910231000_201910231100.m3u8 but state is already quarantined
+2019-10-30 11:30:24+0100 [api] [10_201910230816_201910230932.ism] Received delete request for non-existing content 10_201910230816_201910230932.ism. Creating dummy content.
+2019-10-30 11:30:24+0100 [api] [10_201910230816_201910230932.m3u8] Received delete request for non-existing content 10_201910230816_201910230932.m3u8. Creating dummy content.
+2019-10-30 11:30:24+0100 [api] [10_201910230816_201910230932.m3u8] Got delete for content 10_201910230816_201910230932.m3u8 but state is already quarantined
+2019-10-30 11:30:24+0100 [api] [116_201910230900_201910230936.ism] Got delete for content 116_201910230900_201910230936.ism but state is already quarantined
+2019-10-30 11:30:24+0100 [api] [116_201910230936_201910231020.ism] Received delete request for non-existing content 116_201910230936_201910231020.ism. Creating dummy content.
+2019-10-30 11:30:24+0100 [api] [116_201910230800_201910230900.ism] Got delete for content 116_201910230800_201910230900.ism but state is already quarantined
+2019-10-30 11:30:24+0100 [api] [116_201910230900_201910230936.m3u8] Got delete for content 116_201910230900_201910230936.m3u8 but state is already quarantined
+2019-10-30 11:30:24+0100 [api] [116_201910230936_201910231020.m3u8] Received delete request for non-existing content 116_201910230936_201910231020.m3u8. Creating dummy content.
+2019-10-30 11:30:24+0100 [api] [116_201910230800_201910230900.m3u8] Got delete for content 116_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:24+0100 [api] [116_201910230900_201910230936.m3u8] Got delete for content 116_201910230900_201910230936.m3u8 but state is already quarantined
+2019-10-30 11:30:24+0100 [api] [116_201910230936_201910231020.m3u8] Got delete for content 116_201910230936_201910231020.m3u8 but state is already quarantined
+2019-10-30 11:30:24+0100 [api] [116_201910230800_201910230900.m3u8] Got delete for content 116_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:24+0100 [api] [115_201910230700_201910230830.ism] Got delete for content 115_201910230700_201910230830.ism but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230915_201910230935.ism] Got delete for content 115_201910230915_201910230935.ism but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230830_201910230850.ism] Got delete for content 115_201910230830_201910230850.ism but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230850_201910230915.ism] Got delete for content 115_201910230850_201910230915.ism but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230700_201910230830.m3u8] Got delete for content 115_201910230700_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910231000_201910231020.ism] Received delete request for non-existing content 115_201910231000_201910231020.ism. Creating dummy content.
+2019-10-30 11:30:25+0100 [api] [115_201910230935_201910231000.ism] Received delete request for non-existing content 115_201910230935_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:25+0100 [api] [115_201910230915_201910230935.m3u8] Got delete for content 115_201910230915_201910230935.m3u8 but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230830_201910230850.m3u8] Got delete for content 115_201910230830_201910230850.m3u8 but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910231000_201910231020.m3u8] Received delete request for non-existing content 115_201910231000_201910231020.m3u8. Creating dummy content.
+2019-10-30 11:30:25+0100 [api] [115_201910230935_201910231000.m3u8] Received delete request for non-existing content 115_201910230935_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:25+0100 [api] [115_201910230850_201910230915.m3u8] Got delete for content 115_201910230850_201910230915.m3u8 but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230700_201910230830.m3u8] Got delete for content 115_201910230700_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230915_201910230935.m3u8] Got delete for content 115_201910230915_201910230935.m3u8 but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230830_201910230850.m3u8] Got delete for content 115_201910230830_201910230850.m3u8 but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910231000_201910231020.m3u8] Got delete for content 115_201910231000_201910231020.m3u8 but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230850_201910230915.m3u8] Got delete for content 115_201910230850_201910230915.m3u8 but state is already quarantined
+2019-10-30 11:30:25+0100 [api] [115_201910230935_201910231000.m3u8] Got delete for content 115_201910230935_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:26+0100 [api] [19_201910230800_201910230815.m3u8] Received delete request for non-existing content 19_201910230800_201910230815.m3u8. Creating dummy content.
+2019-10-30 11:30:26+0100 [api] [19_201910230800_201910230815.ism] Received delete request for non-existing content 19_201910230800_201910230815.ism. Creating dummy content.
+2019-10-30 11:30:26+0100 [api] [19_201910230800_201910230815.m3u8] Got delete for content 19_201910230800_201910230815.m3u8 but state is already quarantined
+2019-10-30 11:30:26+0100 [api] [19_201910230815_201910230830.m3u8] Received delete request for non-existing content 19_201910230815_201910230830.m3u8. Creating dummy content.
+2019-10-30 11:30:26+0100 [api] [19_201910230815_201910230830.ism] Received delete request for non-existing content 19_201910230815_201910230830.ism. Creating dummy content.
+2019-10-30 11:30:26+0100 [api] [19_201910230815_201910230830.m3u8] Got delete for content 19_201910230815_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:30:26+0100 [api] [9_201910230809_201910230850.m3u8] Received delete request for non-existing content 9_201910230809_201910230850.m3u8. Creating dummy content.
+2019-10-30 11:30:26+0100 [api] [9_201910230809_201910230850.m3u8] Got delete for content 9_201910230809_201910230850.m3u8 but state is already quarantined
+2019-10-30 11:30:26+0100 [api] [370_201910230800_201910231000.ism] Received delete request for non-existing content 370_201910230800_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:26+0100 [api] [370_201910230800_201910231000.m3u8] Received delete request for non-existing content 370_201910230800_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:26+0100 [api] [370_201910230800_201910231000.m3u8] Got delete for content 370_201910230800_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:26+0100 [api] [4_201910231000_201910231030.m3u8] Received delete request for non-existing content 4_201910231000_201910231030.m3u8. Creating dummy content.
+2019-10-30 11:30:27+0100 [api] [4_201910231000_201910231030.ism] Received delete request for non-existing content 4_201910231000_201910231030.ism. Creating dummy content.
+2019-10-30 11:30:27+0100 [api] [4_201910231000_201910231030.m3u8] Got delete for content 4_201910231000_201910231030.m3u8 but state is already quarantined
+2019-10-30 11:30:27+0100 [api] [4_201910231030_201910231100.ism] Received delete request for non-existing content 4_201910231030_201910231100.ism. Creating dummy content.
+2019-10-30 11:30:27+0100 [api] [4_201910231030_201910231100.m3u8] Received delete request for non-existing content 4_201910231030_201910231100.m3u8. Creating dummy content.
+2019-10-30 11:30:27+0100 [api] [4_201910231030_201910231100.m3u8] Received delete request for non-existing content 4_201910231030_201910231100.m3u8. Creating dummy content.
+2019-10-30 11:30:27+0100 [api] [1_201910230845_201910230900.m3u8] Received delete request for non-existing content 1_201910230845_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:28+0100 [api] [1_201910230845_201910230900.ism] Received delete request for non-existing content 1_201910230845_201910230900.ism. Creating dummy content.
+2019-10-30 11:30:29+0100 [api] [1_201910230845_201910230900.m3u8] Got delete for content 1_201910230845_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:29+0100 [api] [1_201910230900_201910230930.m3u8] Received delete request for non-existing content 1_201910230900_201910230930.m3u8. Creating dummy content.
+2019-10-30 11:30:30+0100 [api] [1_201910230900_201910230930.ism] Received delete request for non-existing content 1_201910230900_201910230930.ism. Creating dummy content.
+2019-10-30 11:30:30+0100 [api] [1_201910230900_201910230930.m3u8] Got delete for content 1_201910230900_201910230930.m3u8 but state is already quarantined
+2019-10-30 11:30:31+0100 [api] [1_201910230930_201910231000.m3u8] Received delete request for non-existing content 1_201910230930_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:32+0100 [api] [1_201910230930_201910231000.ism] Received delete request for non-existing content 1_201910230930_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:32+0100 [api] [1_201910230930_201910231000.m3u8] Got delete for content 1_201910230930_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:33+0100 [api] [1_201910231000_201910231030.m3u8] Received delete request for non-existing content 1_201910231000_201910231030.m3u8. Creating dummy content.
+2019-10-30 11:30:33+0100 [api] [1_201910231000_201910231030.ism] Received delete request for non-existing content 1_201910231000_201910231030.ism. Creating dummy content.
+2019-10-30 11:30:34+0100 [api] [1_201910231000_201910231030.m3u8] Got delete for content 1_201910231000_201910231030.m3u8 but state is already quarantined
+2019-10-30 11:30:34+0100 [api] [1_201910231030_201910231100.m3u8] Received delete request for non-existing content 1_201910231030_201910231100.m3u8. Creating dummy content.
+2019-10-30 11:30:36+0100 [api] [1_201910231030_201910231100.ism] Received delete request for non-existing content 1_201910231030_201910231100.ism. Creating dummy content.
+2019-10-30 11:30:36+0100 [api] [1_201910231030_201910231100.m3u8] Got delete for content 1_201910231030_201910231100.m3u8 but state is already quarantined
+2019-10-30 11:30:37+0100 [api] [2_201910231000_201910231003.m3u8] Received delete request for non-existing content 2_201910231000_201910231003.m3u8. Creating dummy content.
+2019-10-30 11:30:37+0100 [api] [2_201910231000_201910231003.ism] Received delete request for non-existing content 2_201910231000_201910231003.ism. Creating dummy content.
+2019-10-30 11:30:37+0100 [quarantine] [122_201910220900_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:37+0100 [quarantine] [122_201910220900_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:37+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 59420)
+2019-10-30 11:30:37+0100 [api] [2_201910231000_201910231003.m3u8] Got delete for content 2_201910231000_201910231003.m3u8 but state is already quarantined
+2019-10-30 11:30:37+0100 [quarantine] [122_201910221000_201910221105.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:37+0100 [quarantine] [122_201910221000_201910221105.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:37+0100 [quarantine] [55_201910220910_201910221007.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:37+0100 [quarantine] [55_201910220910_201910221007.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:37+0100 [quarantine] [55_201910220812_201910220910.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:37+0100 [api] [2_201910231003_201910231400.m3u8] Received delete request for non-existing content 2_201910231003_201910231400.m3u8. Creating dummy content.
+2019-10-30 11:30:37+0100 [quarantine] [55_201910220812_201910220910.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:37+0100 [quarantine] [98_201910290605_201910290659.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [quarantine] [124_201910220800_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [quarantine] [98_201910290705_201910290759.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [quarantine] [98_201910290705_201910290759.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [api] [2_201910231003_201910231400.ism] Received delete request for non-existing content 2_201910231003_201910231400.ism. Creating dummy content.
+2019-10-30 11:30:38+0100 [quarantine] [124_201910220900_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [quarantine] [124_201910220800_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [quarantine] [124_201910220900_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [quarantine] [98_201910290800_201910290804.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [quarantine] [98_201910290900_201910290904.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [quarantine] [98_201910290400_201910290600.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [api] [2_201910231003_201910231400.m3u8] Got delete for content 2_201910231003_201910231400.m3u8 but state is already quarantined
+2019-10-30 11:30:38+0100 [quarantine] [98_201910290800_201910290804.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [api] [11_201910230850_201910230900.m3u8] Received delete request for non-existing content 11_201910230850_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:38+0100 [quarantine] [28_201909290800_201909290900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [api] [11_201910230850_201910230900.ism] Received delete request for non-existing content 11_201910230850_201910230900.ism. Creating dummy content.
+2019-10-30 11:30:38+0100 [api] [11_201910230850_201910230900.m3u8] Got delete for content 11_201910230850_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:38+0100 [api] [11_201910230900_201910230915.m3u8] Received delete request for non-existing content 11_201910230900_201910230915.m3u8. Creating dummy content.
+2019-10-30 11:30:38+0100 [quarantine] [98_201910290930_201910290934.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [quarantine] [98_201910290400_201910290600.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [api] [11_201910230900_201910230915.ism] Received delete request for non-existing content 11_201910230900_201910230915.ism. Creating dummy content.
+2019-10-30 11:30:38+0100 [api] [11_201910230900_201910230915.m3u8] Got delete for content 11_201910230900_201910230915.m3u8 but state is already quarantined
+2019-10-30 11:30:38+0100 [quarantine] [98_201910290930_201910290934.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:38+0100 [api] [11_201910230915_201910230925.m3u8] Received delete request for non-existing content 11_201910230915_201910230925.m3u8. Creating dummy content.
+2019-10-30 11:30:39+0100 [api] [11_201910230915_201910230925.ism] Received delete request for non-existing content 11_201910230915_201910230925.ism. Creating dummy content.
+2019-10-30 11:30:39+0100 [quarantine] [98_201910290905_201910290929.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:39+0100 [api] [11_201910230915_201910230925.m3u8] Got delete for content 11_201910230915_201910230925.m3u8 but state is already quarantined
+2019-10-30 11:30:39+0100 [api] [11_201910230925_201910230935.m3u8] Received delete request for non-existing content 11_201910230925_201910230935.m3u8. Creating dummy content.
+2019-10-30 11:30:39+0100 [quarantine] [114_201909290940_201909291025.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:39+0100 [api] [11_201910230925_201910230935.m3u8] Got delete for content 11_201910230925_201910230935.m3u8 but state is already quarantined
+2019-10-30 11:30:39+0100 [api] [11_201910230925_201910230935.ism] Received delete request for non-existing content 11_201910230925_201910230935.ism. Creating dummy content.
+2019-10-30 11:30:39+0100 [api] [11_201910230935_201910230950.m3u8] Received delete request for non-existing content 11_201910230935_201910230950.m3u8. Creating dummy content.
+2019-10-30 11:30:39+0100 [api] [11_201910231000_201910231005.m3u8] Received delete request for non-existing content 11_201910231000_201910231005.m3u8. Creating dummy content.
+2019-10-30 11:30:39+0100 [api] [11_201910230935_201910230950.m3u8] Got delete for content 11_201910230935_201910230950.m3u8 but state is already quarantined
+2019-10-30 11:30:39+0100 [api] [11_201910230935_201910230950.ism] Received delete request for non-existing content 11_201910230935_201910230950.ism. Creating dummy content.
+2019-10-30 11:30:39+0100 [api] [11_201910231000_201910231005.ism] Received delete request for non-existing content 11_201910231000_201910231005.ism. Creating dummy content.
+2019-10-30 11:30:39+0100 [quarantine] [17_201910220800_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:39+0100 [api] [11_201910231000_201910231005.m3u8] Got delete for content 11_201910231000_201910231005.m3u8 but state is already quarantined
+2019-10-30 11:30:39+0100 [api] [11_201910231005_201910231010.m3u8] Received delete request for non-existing content 11_201910231005_201910231010.m3u8. Creating dummy content.
+2019-10-30 11:30:39+0100 [api] [11_201910231005_201910231010.ism] Received delete request for non-existing content 11_201910231005_201910231010.ism. Creating dummy content.
+2019-10-30 11:30:39+0100 [api] [11_201910231005_201910231010.m3u8] Got delete for content 11_201910231005_201910231010.m3u8 but state is already quarantined
+2019-10-30 11:30:39+0100 [api] [11_201910231022_201910231025.m3u8] Received delete request for non-existing content 11_201910231022_201910231025.m3u8. Creating dummy content.
+2019-10-30 11:30:39+0100 [api] [11_201910231022_201910231025.ism] Received delete request for non-existing content 11_201910231022_201910231025.ism. Creating dummy content.
+2019-10-30 11:30:40+0100 [quarantine] [17_201910220900_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:40+0100 [api] [11_201910231022_201910231025.m3u8] Got delete for content 11_201910231022_201910231025.m3u8 but state is already quarantined
+2019-10-30 11:30:40+0100 [api] [126_201910230900_201910231000.ism] Received delete request for non-existing content 126_201910230900_201910231000.ism. Creating dummy content.
+2019-10-30 11:30:40+0100 [api] [126_201910230800_201910230900.ism] Received delete request for non-existing content 126_201910230800_201910230900.ism. Creating dummy content.
+2019-10-30 11:30:40+0100 [api] [126_201910230900_201910231000.m3u8] Received delete request for non-existing content 126_201910230900_201910231000.m3u8. Creating dummy content.
+2019-10-30 11:30:40+0100 [api] [126_201910230800_201910230900.m3u8] Received delete request for non-existing content 126_201910230800_201910230900.m3u8. Creating dummy content.
+2019-10-30 11:30:40+0100 [quarantine] [114_201909290940_201909291025.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:40+0100 [quarantine] [17_201910220800_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:40+0100 [api] [126_201910230900_201910231000.m3u8] Got delete for content 126_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:30:40+0100 [api] [126_201910230800_201910230900.m3u8] Got delete for content 126_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:30:40+0100 [quarantine] [62_201910220800_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:40+0100 [quarantine] [28_201909290800_201909290900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:40+0100 [api] [22_201910300500_201910300619.ism] Received delete request for non-existing content 22_201910300500_201910300619.ism. Creating dummy content.
+2019-10-30 11:30:40+0100 [api] [22_201910300500_201910300619.m3u8] Received delete request for non-existing content 22_201910300500_201910300619.m3u8. Creating dummy content.
+2019-10-30 11:30:40+0100 [quarantine] [28_201909290900_201909291000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:40+0100 [api] [22_201910300500_201910300619.m3u8] Got delete for content 22_201910300500_201910300619.m3u8 but state is already quarantined
+2019-10-30 11:30:40+0100 [quarantine] [62_201910220900_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:41+0100 [quarantine] [62_201910220800_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:41+0100 [quarantine] [112_201910220855_201910220907.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:41+0100 [quarantine] [61_201910220914_201910221002.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:41+0100 [quarantine] [61_201910220914_201910221002.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:41+0100 [quarantine] [112_201910220855_201910220907.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:41+0100 [quarantine] [112_201910220907_201910220921.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [63_201910220721_201910220747.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [112_201910220907_201910220921.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [28_201909290900_201909291000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [98_201910290900_201910290904.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [63_201910220751_201910220818.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [63_201910220818_201910220846.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [58_201910220930_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [63_201910220721_201910220747.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [94_201910220930_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [63_201910220751_201910220818.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:42+0100 [quarantine] [58_201910220930_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [32_201910220931_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [94_201910220930_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [32_201910220931_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [2935688_201910220929_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [2935688_201910220929_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [43321471_201910220950_201910221050.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [43321471_201910220950_201910221050.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [69_201910220905_201910221005.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [69_201910220835_201910220905.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [69_201910220810_201910220835.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [69_201910220810_201910220835.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [69_201910220905_201910221005.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:43+0100 [quarantine] [69_201910220835_201910220905.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [63_201910220818_201910220846.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [63_201910220846_201910220913.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [63_201910220846_201910220913.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [113_201910220831_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [113_201910220831_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [19_201910220745_201910220800.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [19_201910220745_201910220800.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [16_201910220900_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [31_201910221000_201910221100.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [16_201910220900_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [116_201910220928_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:44+0100 [quarantine] [31_201910221000_201910221100.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:45+0100 [quarantine] [3370992_201910220900_201910220955.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:45+0100 [quarantine] [3370992_201910220900_201910220955.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:45+0100 [quarantine] [31_201910220900_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:45+0100 [quarantine] [31_201910220900_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:45+0100 [quarantine] [115_201910221000_201910221020.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:45+0100 [quarantine] [116_201910220928_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:45+0100 [quarantine] [115_201910220935_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:45+0100 [quarantine] [9_201910220721_201910220803.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:45+0100 [quarantine] [115_201910220935_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [9_201910220844_201910220927.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [10_201910220806_201910220931.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [9_201910220803_201910220844.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [72_201910220800_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [9_201910220803_201910220844.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [370_201910220700_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [1_201910220840_201910220910.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [19_201910220830_201910220845.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [4_201910221030_201910221100.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [9_201910220830_201910220911.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [4_201910221000_201910221030.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [1_201910220840_201910220910.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:46+0100 [quarantine] [19_201910220830_201910220845.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [1_201910220910_201910221010.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [1_201910220910_201910221010.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [1_201910221010_201910221040.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [1_201910221010_201910221040.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [2_201910221003_201910221400.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [11_201910220900_201910220910.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [2_201910221003_201910221400.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [11_201910220900_201910220910.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [11_201910220850_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:47+0100 [quarantine] [2_201910221000_201910221003.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [11_201910220850_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [11_201910220925_201910220935.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [11_201910220910_201910220925.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [11_201910220925_201910220935.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [11_201910220910_201910220925.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [11_201910221030_201910221040.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [11_201910221030_201910221040.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [126_201910220900_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [126_201910220800_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [126_201910220900_201910221000.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [126_201910220800_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [19_201910220800_201910220815.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [19_201910220800_201910220815.ism] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [2_201910221000_201910221003.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [19_201910220815_201910220830.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:30:48+0100 [quarantine] [19_201910220815_201910220830.ism] Content deleted from VDN after quarantine
+2019-10-30 11:32:10+0100 [api] [97_201910311315_201910311729.m3u8] Received delete request for non-existing content 97_201910311315_201910311729.m3u8. Creating dummy content.
+2019-10-30 11:32:10+0100 [api] [97_201910311315_201910311729.m3u8] Got delete for content 97_201910311315_201910311729.m3u8 but state is already quarantined
+2019-10-30 11:32:10+0100 [api] [97_201910311315_201910311729.ism] Received delete request for non-existing content 97_201910311315_201910311729.ism. Creating dummy content.
+2019-10-30 11:32:15+0100 [api] [73_201911021650_201911021914.ism] Received delete request for non-existing content 73_201911021650_201911021914.ism. Creating dummy content.
+2019-10-30 11:32:15+0100 [api] [73_201911021650_201911021914.m3u8] Received delete request for non-existing content 73_201911021650_201911021914.m3u8. Creating dummy content.
+2019-10-30 11:32:15+0100 [api] [73_201911021650_201911021914.m3u8] Received delete request for non-existing content 73_201911021650_201911021914.m3u8. Creating dummy content.
+2019-10-30 11:32:15+0100 [api] [73_201911021915_201911022159.m3u8] Received delete request for non-existing content 73_201911021915_201911022159.m3u8. Creating dummy content.
+2019-10-30 11:32:15+0100 [api] [73_201911021915_201911022159.m3u8] Got delete for content 73_201911021915_201911022159.m3u8 but state is already quarantined
+2019-10-30 11:32:15+0100 [api] [73_201911021915_201911022159.ism] Received delete request for non-existing content 73_201911021915_201911022159.ism. Creating dummy content.
+2019-10-30 11:32:16+0100 [api] [76_201911021150_201911021414.ism] Received delete request for non-existing content 76_201911021150_201911021414.ism. Creating dummy content.
+2019-10-30 11:32:16+0100 [api] [76_201911021150_201911021414.m3u8] Received delete request for non-existing content 76_201911021150_201911021414.m3u8. Creating dummy content.
+2019-10-30 11:32:16+0100 [api] [76_201911021150_201911021414.m3u8] Got delete for content 76_201911021150_201911021414.m3u8 but state is already quarantined
+2019-10-30 11:32:17+0100 [api] [76_201911021415_201911021608.m3u8] Received delete request for non-existing content 76_201911021415_201911021608.m3u8. Creating dummy content.
+2019-10-30 11:32:17+0100 [api] [76_201911021415_201911021608.m3u8] Got delete for content 76_201911021415_201911021608.m3u8 but state is already quarantined
+2019-10-30 11:32:17+0100 [api] [76_201911021415_201911021608.ism] Received delete request for non-existing content 76_201911021415_201911021608.ism. Creating dummy content.
+2019-10-30 11:32:25+0100 [api] [99_201911021150_201911021354.ism] Received delete request for non-existing content 99_201911021150_201911021354.ism. Creating dummy content.
+2019-10-30 11:32:25+0100 [api] [99_201911021150_201911021354.m3u8] Received delete request for non-existing content 99_201911021150_201911021354.m3u8. Creating dummy content.
+2019-10-30 11:32:25+0100 [api] [99_201911021150_201911021354.m3u8] Got delete for content 99_201911021150_201911021354.m3u8 but state is already quarantined
+2019-10-30 11:32:26+0100 [api] [99_201911021355_201911021724.ism] Received delete request for non-existing content 99_201911021355_201911021724.ism. Creating dummy content.
+2019-10-30 11:32:26+0100 [api] [99_201911021355_201911021724.m3u8] Received delete request for non-existing content 99_201911021355_201911021724.m3u8. Creating dummy content.
+2019-10-30 11:32:26+0100 [api] [99_201911021355_201911021724.m3u8] Got delete for content 99_201911021355_201911021724.m3u8 but state is already quarantined
+2019-10-30 11:33:29+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Processing as MOVIE
+2019-10-30 11:33:29+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Processor Smooth processor, Stage registered
+2019-10-30 11:33:29+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Skipping IGLOO registration since 'igloo-registration-smooth' is not present in config.
+2019-10-30 11:33:29+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Content stage changed to 'registered'
+2019-10-30 11:33:29+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] IGLOO registration complete
+2019-10-30 11:33:29+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Processor Smooth processor, Stage awaiting_encryption
+2019-10-30 11:33:29+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Moving to VIN dir /vcas/vmx/VIN
+2019-10-30 11:35:51+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 32838)
+2019-10-30 11:36:02+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 32832)
+2019-10-30 11:36:53+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Content stage changed to 'awaiting_encryption'
+2019-10-30 11:36:54+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Decrypted content moved to VIN dir /vcas/vmx/VIN
+2019-10-30 11:36:54+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Processor Smooth processor, Stage encrypting
+2019-10-30 11:36:54+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Waiting a maximum of 500 seconds for content to be moved from /vcas/vmx/VIN
+2019-10-30 11:37:01+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Content stage changed to 'encrypting'
+2019-10-30 11:37:01+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Verimatrix encryption underway
+2019-10-30 11:37:01+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Processor Smooth processor, Stage encrypted
+2019-10-30 11:37:01+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Waiting a maximum of 10000 seconds for encryption to be completed
+2019-10-30 11:37:28+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33312)
+2019-10-30 11:37:46+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33428)
+2019-10-30 11:37:46+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33418)
+2019-10-30 11:37:46+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33398)
+2019-10-30 11:37:46+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33416)
+2019-10-30 11:37:46+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33406)
+2019-10-30 11:37:47+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33408)
+2019-10-30 11:37:47+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33410)
+2019-10-30 11:37:47+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33426)
+2019-10-30 11:37:47+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33421)
+2019-10-30 11:37:47+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33420)
+2019-10-30 11:37:47+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33414)
+2019-10-30 11:37:47+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 33412)
+2019-10-30 11:38:25+0100 [smooth-proc-vrun1] Found manifest 3002_SFA_L_Empereur_de_P_16807_34381_T.ism in VOUT subdir /vcas/vmx/VOUT
+2019-10-30 11:38:25+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/3002_SFA_L_Empereur_de_P_16807_34381_T.ism to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_fre_A1_48.isma to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_fre_A1_128.isma to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_org_V1_100.ismv to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_org_V1_200.ismv to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_org_V1_300.ismv to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_org_V1_500.ismv to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_org_V1_800.ismv to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_org_V1_1200.ismv to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_org_V1_1600.ismv to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_org_V1_2200.ismv to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_nob.ismt to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_swe.ismt to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_dan.ismt to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_fin.ismt to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Waiting for file /vcas/vmx/VOUT/SFA_L_Empereur_de_P_16807_34381_T.ismc to be stable for 20 seconds
+2019-10-30 11:38:46+0100 [smooth-proc-vrun1] Manifest 3002_SFA_L_Empereur_de_P_16807_34381_T.ism stable; waiting for 15 referred files
+2019-10-30 11:39:07+0100 [smooth-proc-vrun1] Content 3002_SFA_L_Empereur_de_P_16807_34381_T.ism is stable (15 files)
+2019-10-30 11:39:07+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Content stage changed to 'encrypted'
+2019-10-30 11:39:07+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Encrypted content in /vcas/vmx/VOUT
+2019-10-30 11:39:07+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Processor Smooth processor, Stage in_staging
+2019-10-30 11:39:07+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Moving to STAGING dir /home/media/staging/3002_SFA_L_Empereur_de_P_16807_34381_T.ism
+2019-10-30 11:39:47+0100 [HTTP11ClientProtocol,client] Unhandled error in Deferred:
+2019-10-30 11:39:47+0100 [HTTP11ClientProtocol,client] Unhandled Error
+        Traceback (most recent call last):
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/web/_newclient.py", line 1054, in _bodyDataFinished_CONNECTED
+            self._bodyProtocol.connectionLost(reason)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/xleto/util.py", line 174, in connectionLost
+            self.deferred.callback(self.writer.getvalue())
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 361, in callback
+            self._startRunCallbacks(result)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 455, in _startRunCallbacks
+            self._runCallbacks()
+        --- <exception caught here> ---
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 542, in _runCallbacks
+            current.result = callback(current.result, *args, **kw)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/xleto/api.py", line 56, in handle_response
+            request.finish()
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/web/http.py", line 900, in finish
+            "Request.finish called on a request after its connection was lost; "
+        exceptions.RuntimeError: Request.finish called on a request after its connection was lost; use Request.notifyFinish to keep track of this.
+
+2019-10-30 11:39:47+0100 [HTTP11ClientProtocol,client] Unhandled error in Deferred:
+2019-10-30 11:39:47+0100 [HTTP11ClientProtocol,client] Unhandled Error
+        Traceback (most recent call last):
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/web/_newclient.py", line 1054, in _bodyDataFinished_CONNECTED
+            self._bodyProtocol.connectionLost(reason)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/xleto/util.py", line 174, in connectionLost
+            self.deferred.callback(self.writer.getvalue())
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 361, in callback
+            self._startRunCallbacks(result)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 455, in _startRunCallbacks
+            self._runCallbacks()
+        --- <exception caught here> ---
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 542, in _runCallbacks
+            current.result = callback(current.result, *args, **kw)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/xleto/api.py", line 56, in handle_response
+            request.finish()
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/web/http.py", line 900, in finish
+            "Request.finish called on a request after its connection was lost; "
+        exceptions.RuntimeError: Request.finish called on a request after its connection was lost; use Request.notifyFinish to keep track of this.
+
+2019-10-30 11:39:47+0100 [HTTP11ClientProtocol,client] Unhandled error in Deferred:
+2019-10-30 11:39:47+0100 [HTTP11ClientProtocol,client] Unhandled Error
+        Traceback (most recent call last):
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/web/_newclient.py", line 1054, in _bodyDataFinished_CONNECTED
+            self._bodyProtocol.connectionLost(reason)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/xleto/util.py", line 174, in connectionLost
+            self.deferred.callback(self.writer.getvalue())
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 361, in callback
+            self._startRunCallbacks(result)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 455, in _startRunCallbacks
+            self._runCallbacks()
+        --- <exception caught here> ---
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 542, in _runCallbacks
+            current.result = callback(current.result, *args, **kw)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/xleto/api.py", line 56, in handle_response
+            request.finish()
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/web/http.py", line 900, in finish
+            "Request.finish called on a request after its connection was lost; "
+        exceptions.RuntimeError: Request.finish called on a request after its connection was lost; use Request.notifyFinish to keep track of this.
+
+2019-10-30 11:39:47+0100 [HTTP11ClientProtocol,client] Unhandled error in Deferred:
+2019-10-30 11:39:47+0100 [HTTP11ClientProtocol,client] Unhandled Error
+        Traceback (most recent call last):
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/web/_newclient.py", line 1054, in _bodyDataFinished_CONNECTED
+            self._bodyProtocol.connectionLost(reason)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/xleto/util.py", line 174, in connectionLost
+            self.deferred.callback(self.writer.getvalue())
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 361, in callback
+            self._startRunCallbacks(result)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 455, in _startRunCallbacks
+            self._runCallbacks()
+        --- <exception caught here> ---
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/internet/defer.py", line 542, in _runCallbacks
+            current.result = callback(current.result, *args, **kw)
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/xleto/api.py", line 56, in handle_response
+            request.finish()
+          File "/usr/lib/wfm/wfm/lib/python2.6/site-packages/twisted/web/http.py", line 900, in finish
+            "Request.finish called on a request after its connection was lost; "
+        exceptions.RuntimeError: Request.finish called on a request after its connection was lost; use Request.notifyFinish to keep track of this.
+
+2019-10-30 11:40:02+0100 [api] [122_201910230900_201910231000.m3u8] Got delete for content 122_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:02+0100 [api] [122_201910231000_201910231105.m3u8] Got delete for content 122_201910231000_201910231105.m3u8 but state is already quarantined
+2019-10-30 11:40:02+0100 [api] [122_201910231000_201910231105.ism] Got delete for content 122_201910231000_201910231105.ism but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [98_201910300610_201910300659.m3u8] Got delete for content 98_201910300610_201910300659.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [98_201910300900_201910300909.m3u8] Got delete for content 98_201910300900_201910300909.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [124_201910230900_201910231000.m3u8] Got delete for content 124_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [98_201910300910_201910300929.m3u8] Got delete for content 98_201910300910_201910300929.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [17_201910230900_201910231000.ism] Got delete for content 17_201910230900_201910231000.ism but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [98_201910300930_201910300939.ism] Got delete for content 98_201910300930_201910300939.ism but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [98_201910300710_201910300759.ism] Got delete for content 98_201910300710_201910300759.ism but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [98_201910300800_201910300809.m3u8] Got delete for content 98_201910300800_201910300809.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [55_201910230758_201910230955.m3u8] Got delete for content 55_201910230758_201910230955.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [124_201910230800_201910230900.m3u8] Got delete for content 124_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [55_201910230758_201910230955.ism] Got delete for content 55_201910230758_201910230955.ism but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [98_201910300400_201910300600.m3u8] Got delete for content 98_201910300400_201910300600.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [124_201910230800_201910230900.ism] Got delete for content 124_201910230800_201910230900.ism but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [98_201910300710_201910300759.m3u8] Got delete for content 98_201910300710_201910300759.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [28_201909300900_201909301000.m3u8] Got delete for content 28_201909300900_201909301000.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [114_201909300940_201909301025.ism] Got delete for content 114_201909300940_201909301025.ism but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [28_201909300800_201909300900.m3u8] Got delete for content 28_201909300800_201909300900.m3u8 but state is already quarantined
+2019-10-30 11:40:10+0100 [api] [98_201910300930_201910300939.m3u8] Got delete for content 98_201910300930_201910300939.m3u8 but state is already quarantined
+2019-10-30 11:40:11+0100 [api] [62_201910230900_201910231000.m3u8] Got delete for content 62_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:11+0100 [api] [62_201910230800_201910230900.m3u8] Got delete for content 62_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:40:11+0100 [api] [62_201910230900_201910231000.m3u8] Got delete for content 62_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:11+0100 [api] [62_201910230800_201910230900.m3u8] Got delete for content 62_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:40:11+0100 [api] [63_201910230722_201910230749.m3u8] Got delete for content 63_201910230722_201910230749.m3u8 but state is already quarantined
+2019-10-30 11:40:11+0100 [api] [63_201910230749_201910230817.m3u8] Got delete for content 63_201910230749_201910230817.m3u8 but state is already quarantined
+2019-10-30 11:40:12+0100 [api] [63_201910230749_201910230817.ism] Got delete for content 63_201910230749_201910230817.ism but state is already quarantined
+2019-10-30 11:40:12+0100 [api] [63_201910230817_201910230845.ism] Got delete for content 63_201910230817_201910230845.ism but state is already quarantined
+2019-10-30 11:40:14+0100 [api] [112_201910230855_201910230906.m3u8] Got delete for content 112_201910230855_201910230906.m3u8 but state is already quarantined
+2019-10-30 11:40:14+0100 [api] [112_201910230906_201910230921.m3u8] Got delete for content 112_201910230906_201910230921.m3u8 but state is already quarantined
+2019-10-30 11:40:14+0100 [api] [112_201910230906_201910230921.ism] Got delete for content 112_201910230906_201910230921.ism but state is already quarantined
+2019-10-30 11:40:15+0100 [api] [58_201910230930_201910231000.ism] Got delete for content 58_201910230930_201910231000.ism but state is already quarantined
+2019-10-30 11:40:15+0100 [api] [58_201910230930_201910231000.m3u8] Got delete for content 58_201910230930_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:15+0100 [api] [94_201910230930_201910231000.ism] Got delete for content 94_201910230930_201910231000.ism but state is already quarantined
+2019-10-30 11:40:16+0100 [api] [94_201910230930_201910231000.m3u8] Got delete for content 94_201910230930_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:16+0100 [api] [32_201910230931_201910231000.m3u8] Got delete for content 32_201910230931_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:16+0100 [api] [2935688_201910230929_201910231000.ism] Got delete for content 2935688_201910230929_201910231000.ism but state is already quarantined
+2019-10-30 11:40:17+0100 [api] [2935688_201910230929_201910231000.m3u8] Got delete for content 2935688_201910230929_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:18+0100 [api] [43321471_201910230945_201910231050.m3u8] Got delete for content 43321471_201910230945_201910231050.m3u8 but state is already quarantined
+2019-10-30 11:40:18+0100 [api] [69_201910230905_201910231005.m3u8] Got delete for content 69_201910230905_201910231005.m3u8 but state is already quarantined
+2019-10-30 11:40:19+0100 [api] [69_201910230835_201910230905.m3u8] Got delete for content 69_201910230835_201910230905.m3u8 but state is already quarantined
+2019-10-30 11:40:19+0100 [api] [69_201910230810_201910230835.m3u8] Got delete for content 69_201910230810_201910230835.m3u8 but state is already quarantined
+2019-10-30 11:40:20+0100 [api] [9_201910230729_201910230809.m3u8] Got delete for content 9_201910230729_201910230809.m3u8 but state is already quarantined
+2019-10-30 11:40:20+0100 [api] [72_201910230800_201910230900.m3u8] Got delete for content 72_201910230800_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:40:21+0100 [api] [19_201910230745_201910230800.m3u8] Got delete for content 19_201910230745_201910230800.m3u8 but state is already quarantined
+2019-10-30 11:40:21+0100 [api] [19_201910230830_201910230845.m3u8] Got delete for content 19_201910230830_201910230845.m3u8 but state is already quarantined
+2019-10-30 11:40:21+0100 [api] [19_201910230830_201910230845.ism] Got delete for content 19_201910230830_201910230845.ism but state is already quarantined
+2019-10-30 11:40:21+0100 [api] [19_201910230845_201910230900.m3u8] Got delete for content 19_201910230845_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:40:22+0100 [api] [16_201910230900_201910231000.m3u8] Got delete for content 16_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:22+0100 [api] [3370992_201910230900_201910230955.m3u8] Got delete for content 3370992_201910230900_201910230955.m3u8 but state is already quarantined
+2019-10-30 11:40:22+0100 [api] [3370992_201910230900_201910230955.ism] Got delete for content 3370992_201910230900_201910230955.ism but state is already quarantined
+2019-10-30 11:40:22+0100 [api] [31_201910230900_201910231000.ism] Got delete for content 31_201910230900_201910231000.ism but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [4_201910231030_201910231100.m3u8] Got delete for content 4_201910231030_201910231100.m3u8 but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [116_201910230936_201910231020.m3u8] Got delete for content 116_201910230936_201910231020.m3u8 but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [19_201910230815_201910230830.m3u8] Got delete for content 19_201910230815_201910230830.m3u8 but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [9_201910230809_201910230850.m3u8] Got delete for content 9_201910230809_201910230850.m3u8 but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [370_201910230800_201910231000.ism] Got delete for content 370_201910230800_201910231000.ism but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [370_201910230800_201910231000.m3u8] Got delete for content 370_201910230800_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [10_201910230816_201910230932.ism] Got delete for content 10_201910230816_201910230932.ism but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [115_201910230935_201910231000.m3u8] Got delete for content 115_201910230935_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [10_201910230816_201910230932.m3u8] Got delete for content 10_201910230816_201910230932.m3u8 but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [19_201910230800_201910230815.m3u8] Got delete for content 19_201910230800_201910230815.m3u8 but state is already quarantined
+2019-10-30 11:40:34+0100 [api] [19_201910230800_201910230815.ism] Got delete for content 19_201910230800_201910230815.ism but state is already quarantined
+2019-10-30 11:40:37+0100 [quarantine] [17_201910220900_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:37+0100 [quarantine] [98_201910290605_201910290659.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:40:37+0100 [api] [2_201910231000_201910231003.m3u8] Got delete for content 2_201910231000_201910231003.m3u8 but state is already quarantined
+2019-10-30 11:40:37+0100 [quarantine] [98_201910290905_201910290929.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:40:37+0100 [quarantine] [62_201910220900_201910221000.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:38+0100 [quarantine] [9_201910220721_201910220803.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:40:38+0100 [quarantine] [115_201910221000_201910221020.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:38+0100 [quarantine] [19_201910220845_201910220900.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:40:38+0100 [quarantine] [10_201910220931_201910221002.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:40:38+0100 [api] [11_201910230850_201910230900.m3u8] Got delete for content 11_201910230850_201910230900.m3u8 but state is already quarantined
+2019-10-30 11:40:39+0100 [api] [11_201910230900_201910230915.m3u8] Got delete for content 11_201910230900_201910230915.m3u8 but state is already quarantined
+2019-10-30 11:40:39+0100 [quarantine] [9_201910220844_201910220927.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:39+0100 [api] [11_201910230915_201910230925.m3u8] Got delete for content 11_201910230915_201910230925.m3u8 but state is already quarantined
+2019-10-30 11:40:39+0100 [quarantine] [4_201910221030_201910221100.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:39+0100 [quarantine] [10_201910220931_201910221002.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:39+0100 [quarantine] [370_201910220700_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:39+0100 [quarantine] [10_201910220806_201910220931.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:39+0100 [api] [11_201910230925_201910230935.m3u8] Got delete for content 11_201910230925_201910230935.m3u8 but state is already quarantined
+2019-10-30 11:40:39+0100 [quarantine] [72_201910220800_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:39+0100 [quarantine] [19_201910220845_201910220900.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:39+0100 [quarantine] [4_201910221000_201910221030.ism] Content deleted from VDN after quarantine
+2019-10-30 11:40:39+0100 [api] [11_201910231000_201910231005.m3u8] Got delete for content 11_201910231000_201910231005.m3u8 but state is already quarantined
+2019-10-30 11:40:39+0100 [api] [11_201910230935_201910230950.m3u8] Got delete for content 11_201910230935_201910230950.m3u8 but state is already quarantined
+2019-10-30 11:40:39+0100 [api] [11_201910231005_201910231010.m3u8] Got delete for content 11_201910231005_201910231010.m3u8 but state is already quarantined
+2019-10-30 11:40:40+0100 [api] [11_201910231022_201910231025.m3u8] Got delete for content 11_201910231022_201910231025.m3u8 but state is already quarantined
+2019-10-30 11:40:40+0100 [api] [126_201910230900_201910231000.ism] Got delete for content 126_201910230900_201910231000.ism but state is already quarantined
+2019-10-30 11:40:40+0100 [api] [126_201910230900_201910231000.m3u8] Got delete for content 126_201910230900_201910231000.m3u8 but state is already quarantined
+2019-10-30 11:40:40+0100 [api] [22_201910300500_201910300619.m3u8] Got delete for content 22_201910300500_201910300619.m3u8 but state is already quarantined
+2019-10-30 11:41:18+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Content stage changed to 'in_staging'
+2019-10-30 11:41:18+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Content moved to /home/media/staging/3002_SFA_L_Empereur_de_P_16807_34381_T.ism in staging area
+2019-10-30 11:41:18+0100 [smooth-proc-vrun1] [3002_SFA_L_Empereur_de_P_16807_34381_T.ism] Smooth processor completed processing
+2019-10-30 11:41:37+0100 [quarantine] [11_201910221000_201910221010.ism] Content deleted from VDN after quarantine
+2019-10-30 11:41:37+0100 [quarantine] [11_201910221000_201910221010.m3u8] Content deleted from VDN after quarantine
+2019-10-30 11:42:22+0100 [-] Timing out client: IPv4Address(TCP, '10.88.176.145', 34406)
