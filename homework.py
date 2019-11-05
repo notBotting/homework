@@ -76,9 +76,9 @@ def merge_stack(output):
     else:
         if stack_lock:
             stack_lock = False
-            workload.append(last_line)
+            workload.append(list(last_line))
         last_line = output
-        workload.append(last_line)
+        workload.append(list(last_line))
 
 
 def build_workload(src_line):
