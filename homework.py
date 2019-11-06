@@ -29,6 +29,7 @@ logging.basicConfig(
 last_line = None
 stack_lock = False
 workload = []
+prefix_stats = {}
 
 # Connection settings for postgres
 table_name = 'log_lines'
@@ -45,7 +46,7 @@ try:
     logging.debug('Connection established. Server: "%s"' % record)
 except (Exception, psycopg2.Error) as error:
     logging.debug('Error while establishing connection to Postgres server: "%s"' % error)
-
+    sys.exit(0)
 
 # Parse single line from input into list:
 # list[0] - datetime obj or None.
@@ -57,6 +58,7 @@ def parse_line(src_line):
         t_stamp = ' '.join([src_list[0], src_list[1]])
         del src_list[:2]
         src_list = [None if t_stamp == ' ' else parse(t_stamp)] + src_list
+        build_stats(src_list)
         return src_list
     except IndexError:
         logging.debug('Index error.')
@@ -96,7 +98,17 @@ def pginsert(cur):
     workload = []
 
 # Need stat calculations
+def build_stats(src_list):
+    global prefix_stats
+    if src_list[1]:
+        if src_list[1] not in prefix_stats.keys():
+            prefix_stats[src_list[1]] = 0
+        prefix_stats[src_list[1]] += 1
 
+
+def print_stats():
+    for k, v in prefix_stats.iteritems():
+        print("Prefix: %s, count: %i" % (k, v))
 
 # Infinite loop for stdout listen
 # Aborts on ctrl+c
@@ -114,6 +126,7 @@ def listen_stdout():
     except KeyboardInterrupt:
         logging.debug('Termination signal received.')
         sys.stdout.flush()
+        print_stats()
 
 
 def read_file_lines(filename):
@@ -124,6 +137,7 @@ def read_file_lines(filename):
         for log_line in log_lines:
             build_workload(log_line)
     pginsert(cursor)
+    print_stats()
 
 
 def main():
