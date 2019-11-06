@@ -89,13 +89,12 @@ def build_workload(src_line):
         merge_stack(output)
 
 
-def pginsert(cur):
-    global workload
+def pginsert(table_name, workload):
     pgquery = "INSERT INTO %s VALUES " % table_name
-    args_str = ','.join(cur.mogrify("(%s,%s,%s)", tuple(x)) for x in workload)
+    value_pattern = ",".join(["%s" for i in xrange(len(workload[0]))])
+    args_str = ','.join(cursor.mogrify("(" + value_pattern  + ")", tuple(x)) for x in workload)
     cursor.execute(pgquery + args_str)
     connection.commit()
-    workload = []
 
 # Need stat calculations
 def build_stats(src_list):
@@ -106,6 +105,15 @@ def build_stats(src_list):
         prefix_stats[src_list[1]] += 1
 
 
+def upload_stats():
+    table = 'prefix_stats'
+    payload = [(datetime.now(), str(prefix_stats))]
+    try:
+        pginsert(table, payload)
+    except Exception as e:
+        logging.debug('Exception on stat upload: %s' % e)
+
+
 def print_stats():
     for k, v in prefix_stats.iteritems():
         print("Prefix: %s, count: %i" % (k, v))
@@ -113,6 +121,7 @@ def print_stats():
 # Infinite loop for stdout listen
 # Aborts on ctrl+c
 def listen_stdout():
+    global workload
     logging.debug('Initializing listener for stdout.')
     try:
         line = ''
@@ -122,22 +131,27 @@ def listen_stdout():
                 build_workload(line)
                 line = ''
                 if not stack_lock:
-                    pginsert(cursor)
+                    pginsert(table_name, workload)
+                    workload = []
     except KeyboardInterrupt:
         logging.debug('Termination signal received.')
         sys.stdout.flush()
         print_stats()
+        upload_stats()
 
 
 def read_file_lines(filename):
     logging.debug('Reading log lines from file: "%s"' % filename)
+    global workload
     with open(filename, 'r') as src_file:
         log_lines = src_file.readlines()
         logging.debug('File len (line count): %i' % len(log_lines))
         for log_line in log_lines:
             build_workload(log_line)
-    pginsert(cursor)
+    pginsert(table_name, workload)
+    workload = []
     print_stats()
+    upload_stats()
 
 
 def main():
@@ -146,7 +160,7 @@ def main():
     elif args.file:
         read_file_lines(args.file)
     else:
-        print('something else')
+        sys.exit(0)
 
 
 if __name__ == '__main__':
